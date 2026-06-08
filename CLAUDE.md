@@ -2,10 +2,11 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 要件定義書・アーキテクチャ設計書
+## 要件定義書・設計書
 
 - `spec/requirements.md` が本プロジェクトの要件定義書。機能要件・仕様の詳細はこちらを参照すること。
 - `spec/architecture.md` がアーキテクチャ設計書。システム構成・技術選定(エージェント構成、フレームワーク、デプロイ方式など)の詳細・検討経緯はこちらを参照すること。
+- `spec/infrastructure.md` がインフラ設計書。AWSリソースの構築方針(リージョン、Terraform構成、IAM、コスト管理など)の詳細・検討経緯はこちらを参照すること。
 
 機能追加を行う際は `spec/requirements.md` を直接編集せず、`spec/features/` 配下に機能ごとの個別要件ファイルを作成し、それをもとに開発を進める。
 開発完了後、ユーザーの明示的な指示があったタイミングで `merge-requirement` スキル(`/merge-requirement`)を使い、個別要件ファイルの内容を `spec/requirements.md` にマージし、マージ済みファイルを `spec/adr/` へ ADR として移動する。
