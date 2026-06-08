@@ -2,9 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 要件定義書
+## 要件定義書・アーキテクチャ設計書
 
-`spec/requirements.md` が本プロジェクトの要件定義書。機能要件・仕様の詳細はこちらを参照すること。
+- `spec/requirements.md` が本プロジェクトの要件定義書。機能要件・仕様の詳細はこちらを参照すること。
+- `spec/architecture.md` がアーキテクチャ設計書。システム構成・技術選定(エージェント構成、フレームワーク、デプロイ方式など)の詳細・検討経緯はこちらを参照すること。
 
 機能追加を行う際は `spec/requirements.md` を直接編集せず、`spec/features/` 配下に機能ごとの個別要件ファイルを作成し、それをもとに開発を進める。
 開発完了後、ユーザーの明示的な指示があったタイミングで `merge-requirement` スキル(`/merge-requirement`)を使い、個別要件ファイルの内容を `spec/requirements.md` にマージし、マージ済みファイルを `spec/adr/` へ ADR として移動する。
@@ -17,37 +18,16 @@ AIエージェントの作成を学習したいので複数のエージェント
 
 現時点ではまだ実装前で、設計・方針整理の段階。READMEと本ファイル以外にソースコードは存在しない。
 
-## 想定アーキテクチャ
+学習・利用の中心とするAgentCoreの構成要素は **Runtime**(エージェントのホスティング・実行基盤)と **Memory**(短期記憶・長期記憶による対話の文脈維持)。Identity / Code Interpreter / Browser / Observability などの他の構成要素は必要に応じて後から検討する(現時点では優先度低)。
 
-```
-[ユーザー (チャットUI)]
-        ↓
-[React フロントエンド]  ※後回し。まずはCLI/API経由での動作確認を優先
-        ↓
-[Python バックエンド]
-        ↓
-[AWS Bedrock AgentCore Runtime]  … エージェントのホスティング・実行基盤
-        └─ Memory   … 会話履歴(短期記憶)・ユーザーの嗜好や要約(長期記憶)の保持
-        ↓
-[NBA データソース (外部API)]
-```
-
-### 学習・利用の中心とするAgentCoreの構成要素
-
-- **Runtime**: エージェントコードをホスティング・実行する基盤。本プロジェクトの中核。
-- **Memory**: 短期記憶(直近の会話コンテキスト)と長期記憶(ユーザーの嗜好・要約など)を管理し、対話の文脈維持に利用する。
-
-Identity / Code Interpreter / Browser / Observability などの他のAgentCore構成要素は、必要に応じて後から検討する(現時点では優先度低)。
-
-### NBAデータソースについて
-
-データ取得元のAPIは未確定(検討中)。候補としては balldontlie.io(無料枠あり、APIキー認証、選手・チーム・試合データを取得可能)などがあるが、採用は未決定。実装に着手する際は、認証方式・レート制限・取得可能なデータ種別を確認した上で選定すること。
+具体的なシステム構成・技術選定は `spec/architecture.md` を参照。
 
 ## 技術スタック方針
 
 - **バックエンド**: Python(AgentCore上で動作するエージェントロジック、外部API連携を実装)
 - **フロントエンド**: React(後回し。バックエンド・AgentCoreの動作確認を優先してから着手)
-- `.gitignore` には IntelliJ / React / Python / Terraform のテンプレートが含まれており、インフラ構築にTerraformを使う可能性も視野にある(未確定)
+
+技術選定の詳細・検討経緯は `spec/architecture.md` を参照。
 
 ## 開発の進め方
 
