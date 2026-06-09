@@ -1,6 +1,7 @@
 """NBA data retrieval tools for the data fetching agent."""
 
 import time
+from datetime import date
 from typing import Any
 
 import pandas as pd
@@ -15,12 +16,20 @@ from nba_api.stats.endpoints import (
 from nba_api.stats.static import players, teams
 from strands import tool
 
-DEFAULT_SEASON = "2024-25"
 MAX_RETRIES = 3
 RETRY_INTERVAL = 2.0
 
 # リトライしても無意味なHTTPステータスコード(クライアントエラー)
 _NO_RETRY_STATUS_CODES = {400, 401, 403, 404, 422}
+
+
+def _current_season() -> str:
+    """現在日付からNBAシーズン文字列(例: "2024-25")を返す。
+    NBAシーズンは10月開幕のため、10月以降は当年開幕のシーズン、それ以前は前年開幕のシーズンとする。
+    """
+    today = date.today()
+    year = today.year if today.month >= 10 else today.year - 1
+    return f"{year}-{str(year + 1)[-2:]}"
 
 
 def _pct(value) -> float | None:
@@ -103,17 +112,18 @@ def _call_with_retry(fn, *args, **kwargs) -> Any:
 
 
 @tool
-def get_player_stats(player_name: str, season: str = DEFAULT_SEASON) -> dict:
+def get_player_stats(player_name: str, season: str = "") -> dict:
     """
     指定した選手の個人スタッツ(得点・リバウンド・アシスト・FG%・3P% 等)を取得する。
 
     Args:
         player_name: 選手名(例: "LeBron James")
-        season: シーズン(例: "2024-25")。省略時は2024-25シーズン。
+        season: シーズン(例: "2024-25")。省略時は現在のシーズンを自動判定する。
 
     Returns:
         選手のスタッツ情報を含むdict。選手が見つからない場合は候補リストを返す。
     """
+    season = season or _current_season()
     player, candidates = _find_player(player_name)
     if not player:
         return {
@@ -164,18 +174,19 @@ def get_player_stats(player_name: str, season: str = DEFAULT_SEASON) -> dict:
 
 
 @tool
-def get_player_recent_games(player_name: str, season: str = DEFAULT_SEASON, last_n: int = 5) -> dict:
+def get_player_recent_games(player_name: str, season: str = "", last_n: int = 5) -> dict:
     """
     指定した選手の直近の試合結果・スタッツを取得する。
 
     Args:
         player_name: 選手名(例: "LeBron James")
-        season: シーズン(例: "2024-25")。省略時は2024-25シーズン。
+        season: シーズン(例: "2024-25")。省略時は現在のシーズンを自動判定する。
         last_n: 取得する直近の試合数。デフォルトは5試合。
 
     Returns:
         直近の試合スタッツを含むdict。
     """
+    season = season or _current_season()
     player, candidates = _find_player(player_name)
     if not player:
         return {
@@ -224,16 +235,17 @@ def get_player_recent_games(player_name: str, season: str = DEFAULT_SEASON, last
 
 
 @tool
-def get_team_standings(season: str = DEFAULT_SEASON) -> dict:
+def get_team_standings(season: str = "") -> dict:
     """
     リーグ全チームの順位・成績を取得する。
 
     Args:
-        season: シーズン(例: "2024-25")。省略時は2024-25シーズン。
+        season: シーズン(例: "2024-25")。省略時は現在のシーズンを自動判定する。
 
     Returns:
         東西カンファレンス別の順位・成績を含むdict。
     """
+    season = season or _current_season()
     standings = _call_with_retry(
         leaguestandingsv3.LeagueStandingsV3,
         season=season,
@@ -263,18 +275,19 @@ def get_team_standings(season: str = DEFAULT_SEASON) -> dict:
 
 
 @tool
-def get_team_game_log(team_name: str, season: str = DEFAULT_SEASON, last_n: int = 10) -> dict:
+def get_team_game_log(team_name: str, season: str = "", last_n: int = 10) -> dict:
     """
     指定チームの直近の試合結果を取得する。
 
     Args:
         team_name: チーム名・略称・ニックネーム(例: "Lakers", "LAL", "Los Angeles Lakers")
-        season: シーズン(例: "2024-25")。省略時は2024-25シーズン。
+        season: シーズン(例: "2024-25")。省略時は現在のシーズンを自動判定する。
         last_n: 取得する直近の試合数。デフォルトは10試合。
 
     Returns:
         直近の試合結果を含むdict。チームが見つからない場合は候補リストを返す。
     """
+    season = season or _current_season()
     team, candidates = _find_team(team_name)
     if not team:
         return {
@@ -361,13 +374,13 @@ def get_player_info(player_name: str) -> dict:
 
 
 @tool
-def get_position_avg_stats(position: str, season: str = DEFAULT_SEASON) -> dict:
+def get_position_avg_stats(position: str, season: str = "") -> dict:
     """
     指定ポジションの選手群の平均スタッツを取得する。
 
     Args:
         position: ポジション略称("G"=Guard, "F"=Forward, "C"=Center)またはフルネーム
-        season: シーズン(例: "2024-25")。省略時は2024-25シーズン。
+        season: シーズン(例: "2024-25")。省略時は現在のシーズンを自動判定する。
 
     Returns:
         指定ポジションの平均スタッツを含むdict。
@@ -381,6 +394,7 @@ def get_position_avg_stats(position: str, season: str = DEFAULT_SEASON) -> dict:
     }
     position_label_map = {"G": "Guard", "F": "Forward", "C": "Center"}
 
+    season = season or _current_season()
     abbrev = position_abbrev_map.get(position)
     if not abbrev:
         return {
