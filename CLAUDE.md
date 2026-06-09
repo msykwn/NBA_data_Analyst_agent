@@ -9,8 +9,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `spec/infrastructure.md` がインフラ設計書。AWSリソースの構築方針(リージョン、Terraform構成、IAM、コスト管理など)の詳細・検討経緯はこちらを参照すること。
 
 機能追加を行う際は `spec/requirements.md` を直接編集せず、`spec/features/` 配下に機能ごとの個別要件ファイルを作成し、それをもとに開発を進める。
-開発完了後、ユーザーの明示的な指示があったタイミングで `merge-requirement` スキル(`/merge-requirement`)を使い、個別要件ファイルの内容を `spec/requirements.md` にマージし、マージ済みファイルを `spec/adr/` へ ADR として移動する。
-詳細な手順は「機能追加時の要件管理フロー」を参照(`start-feature-spec` / `merge-requirement` の各スキルは、他プロジェクトでも使えるようユーザーレベルの `~/.claude/skills/` に配置している)。
+開発完了後、ユーザーの明示的な指示があったタイミングで `create-pull-request` スキル(`/create-pull-request`)を使い、個別要件ファイルの内容を `spec/requirements.md` にマージし、マージ済みファイルを `spec/adr/` へ ADR として移動したうえで GitHub に Pull Request を作成する。
+詳細な手順は「機能追加時の要件管理フロー」を参照(`start-feature-spec` / `create-pull-request` の各スキルは、他プロジェクトでも使えるようユーザーレベルの `~/.claude/skills/` に配置している)。
 
 ## プロジェクト概要
 
