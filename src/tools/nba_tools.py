@@ -258,7 +258,7 @@ def get_team_standings(season: str = "") -> dict:
         if conf not in ("East", "West"):
             continue
         entry = {
-            "rank": row["PlayoffRank"],
+            "rank": int(row["PlayoffRank"]) if pd.notna(row["PlayoffRank"]) else 999,
             "team": f"{row['TeamCity']} {row['TeamName']}",
             "wins": row["WINS"],
             "losses": row["LOSSES"],
