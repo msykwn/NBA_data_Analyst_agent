@@ -70,7 +70,15 @@ AIエージェントの作成を学習したいので複数のエージェント
 - AWS Bedrock AgentCore は2025年にGA(一般提供)となった比較的新しいサービスのため、実装時はAWS公式ドキュメント(https://docs.aws.amazon.com/bedrock-agentcore/)で最新のAPI・SDK仕様を確認すること
 - アーキテクチャ・採用技術が確定し次第、本ファイルを更新して実態と乖離しないようにする
 
+## AWS認証
+
+AWSアクセスには **aws-vault** を使う。`~/.aws/credentials` に直接認証情報は書いておらず、boto3での直接プロファイル指定は機能しない。
+
+- Python スクリプトの実行: `aws-vault exec piyo --no-session -- uv run python ...`
+- Terraform の実行: `aws-vault exec piyo --no-session -- terraform ...`
+- `--no-session` なしだと `sts:GetSessionToken` の一時セッションになり、IAM操作が `InvalidClientTokenId` で弾かれる
+
 ## Terraform操作のルール
 
 - `terraform apply` を実行する前に必ず `terraform plan` を実行し、その結果をユーザーに表示してから確認を取ること。ユーザーの明示的な承認なしに `apply` を実行しない
-- Terraformの実行には `aws-vault exec piyo --no-session -- terraform ...` を使うこと。`--no-session` なしだと `sts:GetSessionToken` の一時セッションになり、IAM操作が `InvalidClientTokenId` で弾かれる
+- Terraformの実行には `aws-vault exec piyo --no-session -- terraform ...` を使うこと(`AWS認証`セクション参照)
