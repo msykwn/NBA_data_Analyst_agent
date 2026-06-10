@@ -7,7 +7,8 @@
 - [ ] REST API エンドポイント経由での動作確認
 - 別セッションで `spec/features/agentcore-deployment.md` をもとに準備中
 
-## フェーズ2: フロントエンド(React)
+## フェーズ2: フロントエンド(React) 🔄 進行中
+- [x] Reactプロジェクトのセットアップ(Vite + React + TypeScript)
 - [ ] チャットUI の実装
 - [ ] AgentCore Runtime(REST API)との接続
 
