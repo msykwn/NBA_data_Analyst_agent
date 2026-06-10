@@ -94,8 +94,22 @@ ADR(Architecture Decision Record)として保管される。
 - エージェント呼び分けと期間表現の解釈をともにLLMに委ねるため、精度が保証できない。動作確認で精度を見極め、必要であれば追加実装が必要になる
 - AgentCore Memory との連携は本フェーズ外のため、セッションをまたいだ会話文脈の維持はできない
 
-### 実装中に発覚した制約
-- Strands Agents の `Agent.as_tool()` を使う場合、同一エージェントインスタンスへの並列呼び出し時に `agent is already processing a request` という警告が出る。これはエージェントインスタンスがシングルスレッド前提のため。今回の実装ではオーケストレーターが複数データを並列取得しようとした際に初回のみ発生したが、処理は正常完了した。複数の同一エージェント呼び出しが頻発する場合はインスタンスを複数生成する等の対応が必要になる可能性がある
+### 実装中に発覚した制約と対応
+
+**`_AgentAsTool` の並列呼び出し競合**
+- `Agent.as_tool()` は呼び出し時に `_AgentAsTool` インスタンスを生成するが、`tools=[data_agent.as_tool(), ...]` の形でモジュールロード時に一度評価すると固定される
+- `_AgentAsTool.stream()` は `self._lock.acquire(blocking=False)` で排他制御しており、ロック取得失敗時は `status="error"` を即時返す（リトライなし）
+- オーケストレーターが同一エージェントを並列呼び出ししようとすると `agent is already processing a request` 警告が発生し、LLM がリカバリしなければデータ欠落が起きる
+- **対応**: (1) `create_orchestrator()` ファクトリ関数を導入しリクエストごとに `as_tool()` を再評価、(2) システムプロンプトで同一エージェントへの並列呼び出しを明示的に禁止、(3) `SequentialToolExecutor` でオーケストレーターレベルのツール実行を直列化、の3点を合わせて対処
+
+**orchestrator の会話履歴汚染**
+- `orchestrator` インスタンスを使い回すと `messages` が蓄積し、後の質問に前の会話コンテキストが混入する
+- `preserve_context=False`（デフォルト）はサブエージェント側のリセットのみ制御し、orchestrator 自身には効かない
+- **対応**: `create_orchestrator()` でリクエストごとに新規インスタンスを生成することで解消
+
+**SYSTEM_PROMPT への現在日付の注入**
+- 期間表現（「先週」「最近1ヶ月」）の解釈をLLMに委ねる際、LLM は実行日を知らないためトレーニングデータ依存になり日付がずれる可能性がある
+- **対応**: `_build_system_prompt()` を関数化し、`date.today().isoformat()` を毎回注入する構造に変更
 
 ## 仕様変更の経緯
 
