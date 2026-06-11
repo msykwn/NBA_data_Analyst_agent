@@ -9,4 +9,5 @@ dependencies = [
     "boto3>=1.43.25",
     "nba-api>=1.11.4",
     "strands-agents>=1.42.0",
+    "strands-agents-tools>=0.8.0",
 ]

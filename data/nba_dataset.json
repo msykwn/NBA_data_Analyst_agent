@@ -1,0 +1,7092 @@
+{
+  "season": "2024-25",
+  "generated_at": "2026-06-11",
+  "players": {
+    "Cade Cunningham": {
+      "id": 1630595,
+      "full_name": "Cade Cunningham",
+      "info": {
+        "is_active": true,
+        "team": "Pistons",
+        "team_abbreviation": "DET",
+        "position": "Guard",
+        "jersey": "2"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "DET",
+        "games_played": 70,
+        "stats_per_game": {
+          "points": 26.1,
+          "rebounds": 6.1,
+          "assists": 9.1,
+          "steals": 1.0,
+          "blocks": 0.8,
+          "fg_pct": 46.9,
+          "fg3_pct": 35.6,
+          "ft_pct": 84.6
+        },
+        "stats_total": {
+          "points": 1830,
+          "rebounds": 425,
+          "assists": 638
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "DET vs. MIL",
+          "result": "L",
+          "minutes": 36,
+          "points": 36,
+          "rebounds": 6,
+          "assists": 12,
+          "fg_pct": 71.4,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Apr 10, 2025",
+          "matchup": "DET vs. NYK",
+          "result": "W",
+          "minutes": 35,
+          "points": 36,
+          "rebounds": 2,
+          "assists": 8,
+          "fg_pct": 66.7,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Apr 07, 2025",
+          "matchup": "DET vs. SAC",
+          "result": "L",
+          "minutes": 33,
+          "points": 35,
+          "rebounds": 3,
+          "assists": 5,
+          "fg_pct": 61.9,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 05, 2025",
+          "matchup": "DET vs. MEM",
+          "result": "L",
+          "minutes": 28,
+          "points": 25,
+          "rebounds": 9,
+          "assists": 4,
+          "fg_pct": 37.5,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "DET @ DAL",
+          "result": "L",
+          "minutes": 38,
+          "points": 35,
+          "rebounds": 7,
+          "assists": 6,
+          "fg_pct": 50.0,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 19, 2025",
+          "matchup": "DET @ MIA",
+          "result": "W",
+          "minutes": 36,
+          "points": 25,
+          "rebounds": 12,
+          "assists": 11,
+          "fg_pct": 44.0,
+          "fg3_pct": 75.0
+        },
+        {
+          "date": "Mar 17, 2025",
+          "matchup": "DET @ NOP",
+          "result": "W",
+          "minutes": 30,
+          "points": 24,
+          "rebounds": 4,
+          "assists": 8,
+          "fg_pct": 62.5,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 15, 2025",
+          "matchup": "DET vs. OKC",
+          "result": "L",
+          "minutes": 29,
+          "points": 11,
+          "rebounds": 7,
+          "assists": 9,
+          "fg_pct": 27.8,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 13, 2025",
+          "matchup": "DET vs. WAS",
+          "result": "L",
+          "minutes": 38,
+          "points": 38,
+          "rebounds": 3,
+          "assists": 10,
+          "fg_pct": 36.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 11, 2025",
+          "matchup": "DET vs. WAS",
+          "result": "W",
+          "minutes": 32,
+          "points": 27,
+          "rebounds": 8,
+          "assists": 10,
+          "fg_pct": 47.8,
+          "fg3_pct": 20.0
+        }
+      ]
+    },
+    "Xavier Tillman": {
+      "id": 1630214,
+      "full_name": "Xavier Tillman",
+      "info": {
+        "is_active": true,
+        "team": "Hornets",
+        "team_abbreviation": "CHA",
+        "position": "Forward",
+        "jersey": "26"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 33,
+        "stats_per_game": {
+          "points": 1.0,
+          "rebounds": 1.3,
+          "assists": 0.2,
+          "steals": 0.3,
+          "blocks": 0.2,
+          "fg_pct": 24.5,
+          "fg3_pct": 15.6,
+          "ft_pct": 75.0
+        },
+        "stats_total": {
+          "points": 34,
+          "rebounds": 43,
+          "assists": 7
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 7,
+          "points": 2,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 7,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 2,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 8,
+          "points": 2,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 06, 2025",
+          "matchup": "BOS vs. PHI",
+          "result": "W",
+          "minutes": 7,
+          "points": 5,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 50.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Feb 26, 2025",
+          "matchup": "BOS @ DET",
+          "result": "L",
+          "minutes": 5,
+          "points": 0,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 6,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Jan 27, 2025",
+          "matchup": "BOS vs. HOU",
+          "result": "L",
+          "minutes": 6,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Jan 20, 2025",
+          "matchup": "BOS @ GSW",
+          "result": "W",
+          "minutes": 8,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Jan 15, 2025",
+          "matchup": "BOS @ TOR",
+          "result": "L",
+          "minutes": 1,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Baylor Scheierman": {
+      "id": 1631248,
+      "full_name": "Baylor Scheierman",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Guard",
+        "jersey": "55"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 31,
+        "stats_per_game": {
+          "points": 3.6,
+          "rebounds": 2.1,
+          "assists": 1.1,
+          "steals": 0.5,
+          "blocks": 0.1,
+          "fg_pct": 35.5,
+          "fg3_pct": 31.7,
+          "ft_pct": 75.0
+        },
+        "stats_total": {
+          "points": 113,
+          "rebounds": 65,
+          "assists": 33
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 36,
+          "points": 7,
+          "rebounds": 7,
+          "assists": 2,
+          "fg_pct": 14.3,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 10,
+          "points": 5,
+          "rebounds": 3,
+          "assists": 2,
+          "fg_pct": 66.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 35,
+          "points": 15,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 42.9,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 21,
+          "points": 6,
+          "rebounds": 4,
+          "assists": 2,
+          "fg_pct": 33.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 2,
+          "points": 2,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 17,
+          "points": 3,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 33.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 6,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 19,
+          "points": 7,
+          "rebounds": 2,
+          "assists": 2,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 13,
+          "points": 3,
+          "rebounds": 0,
+          "assists": 4,
+          "fg_pct": 33.3,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 28,
+          "points": 9,
+          "rebounds": 7,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        }
+      ]
+    },
+    "JD Davison": {
+      "id": 1631120,
+      "full_name": "JD Davison",
+      "info": {
+        "is_active": true,
+        "team": "Rockets",
+        "team_abbreviation": "HOU",
+        "position": "Guard",
+        "jersey": "4"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 16,
+        "stats_per_game": {
+          "points": 2.1,
+          "rebounds": 0.8,
+          "assists": 0.8,
+          "steals": 0.3,
+          "blocks": 0.1,
+          "fg_pct": 35.3,
+          "fg3_pct": 22.2,
+          "ft_pct": 71.4
+        },
+        "stats_total": {
+          "points": 33,
+          "rebounds": 13,
+          "assists": 13
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 17,
+          "points": 9,
+          "rebounds": 1,
+          "assists": 4,
+          "fg_pct": 36.4,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 2,
+          "points": 2,
+          "rebounds": 0,
+          "assists": 1,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 17,
+          "points": 0,
+          "rebounds": 4,
+          "assists": 2,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 5,
+          "points": 2,
+          "rebounds": 1,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 1,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "BOS @ POR",
+          "result": "W",
+          "minutes": 8,
+          "points": 4,
+          "rebounds": 1,
+          "assists": 1,
+          "fg_pct": 100.0,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 3,
+          "points": 4,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 66.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 06, 2025",
+          "matchup": "BOS vs. PHI",
+          "result": "W",
+          "minutes": 7,
+          "points": 3,
+          "rebounds": 0,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 05, 2025",
+          "matchup": "BOS vs. POR",
+          "result": "W",
+          "minutes": 0,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 26, 2025",
+          "matchup": "BOS @ DET",
+          "result": "L",
+          "minutes": 5,
+          "points": 3,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Luke Kornet": {
+      "id": 1628436,
+      "full_name": "Luke Kornet",
+      "info": {
+        "is_active": true,
+        "team": "Spurs",
+        "team_abbreviation": "SAS",
+        "position": "Center-Forward",
+        "jersey": "7"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 73,
+        "stats_per_game": {
+          "points": 6.0,
+          "rebounds": 5.3,
+          "assists": 1.6,
+          "steals": 0.5,
+          "blocks": 1.0,
+          "fg_pct": 66.8,
+          "fg3_pct": 0.0,
+          "ft_pct": 69.1
+        },
+        "stats_total": {
+          "points": 441,
+          "rebounds": 388,
+          "assists": 117
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 30,
+          "points": 11,
+          "rebounds": 8,
+          "assists": 2,
+          "fg_pct": 55.6,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 18,
+          "points": 8,
+          "rebounds": 4,
+          "assists": 2,
+          "fg_pct": 60.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 25,
+          "points": 14,
+          "rebounds": 3,
+          "assists": 1,
+          "fg_pct": 70.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 19,
+          "points": 2,
+          "rebounds": 3,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 26,
+          "points": 13,
+          "rebounds": 14,
+          "assists": 3,
+          "fg_pct": 66.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 15,
+          "points": 12,
+          "rebounds": 4,
+          "assists": 0,
+          "fg_pct": 71.4,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 21,
+          "points": 14,
+          "rebounds": 6,
+          "assists": 2,
+          "fg_pct": 77.8,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 31,
+          "points": 15,
+          "rebounds": 16,
+          "assists": 4,
+          "fg_pct": 70.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 18,
+          "points": 2,
+          "rebounds": 5,
+          "assists": 0,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 26,
+          "points": 13,
+          "rebounds": 8,
+          "assists": 3,
+          "fg_pct": 85.7,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Jalen Brunson": {
+      "id": 1628973,
+      "full_name": "Jalen Brunson",
+      "info": {
+        "is_active": true,
+        "team": "Knicks",
+        "team_abbreviation": "NYK",
+        "position": "Guard",
+        "jersey": "11"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "NYK",
+        "games_played": 65,
+        "stats_per_game": {
+          "points": 26.0,
+          "rebounds": 2.9,
+          "assists": 7.3,
+          "steals": 0.9,
+          "blocks": 0.1,
+          "fg_pct": 48.7,
+          "fg3_pct": 38.3,
+          "ft_pct": 82.1
+        },
+        "stats_total": {
+          "points": 1690,
+          "rebounds": 187,
+          "assists": 475
+        }
+      },
+      "recent_games": [
+        {
+          "date": "APR 11, 2025",
+          "matchup": "NYK vs. CLE",
+          "result": "L",
+          "minutes": 36,
+          "points": 27,
+          "rebounds": 1,
+          "assists": 2,
+          "fg_pct": 52.9,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "APR 10, 2025",
+          "matchup": "NYK @ DET",
+          "result": "L",
+          "minutes": 29,
+          "points": 15,
+          "rebounds": 2,
+          "assists": 5,
+          "fg_pct": 33.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "APR 08, 2025",
+          "matchup": "NYK vs. BOS",
+          "result": "L",
+          "minutes": 38,
+          "points": 27,
+          "rebounds": 1,
+          "assists": 10,
+          "fg_pct": 47.6,
+          "fg3_pct": 41.7
+        },
+        {
+          "date": "APR 06, 2025",
+          "matchup": "NYK vs. PHX",
+          "result": "W",
+          "minutes": 34,
+          "points": 15,
+          "rebounds": 2,
+          "assists": 6,
+          "fg_pct": 33.3,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "MAR 06, 2025",
+          "matchup": "NYK @ LAL",
+          "result": "L",
+          "minutes": 41,
+          "points": 39,
+          "rebounds": 4,
+          "assists": 10,
+          "fg_pct": 50.0,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "MAR 04, 2025",
+          "matchup": "NYK vs. GSW",
+          "result": "L",
+          "minutes": 37,
+          "points": 25,
+          "rebounds": 2,
+          "assists": 7,
+          "fg_pct": 50.0,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "MAR 02, 2025",
+          "matchup": "NYK @ MIA",
+          "result": "W",
+          "minutes": 42,
+          "points": 31,
+          "rebounds": 5,
+          "assists": 6,
+          "fg_pct": 52.0,
+          "fg3_pct": 27.3
+        },
+        {
+          "date": "FEB 28, 2025",
+          "matchup": "NYK @ MEM",
+          "result": "W",
+          "minutes": 36,
+          "points": 23,
+          "rebounds": 7,
+          "assists": 6,
+          "fg_pct": 43.5,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "FEB 26, 2025",
+          "matchup": "NYK vs. PHI",
+          "result": "W",
+          "minutes": 36,
+          "points": 34,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 47.1,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "FEB 23, 2025",
+          "matchup": "NYK @ BOS",
+          "result": "L",
+          "minutes": 38,
+          "points": 22,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 47.4,
+          "fg3_pct": 44.4
+        }
+      ]
+    },
+    "Karl-Anthony Towns": {
+      "id": 1626157,
+      "full_name": "Karl-Anthony Towns",
+      "info": {
+        "is_active": true,
+        "team": "Knicks",
+        "team_abbreviation": "NYK",
+        "position": "Center-Forward",
+        "jersey": "32"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "NYK",
+        "games_played": 72,
+        "stats_per_game": {
+          "points": 24.4,
+          "rebounds": 12.8,
+          "assists": 3.1,
+          "steals": 1.0,
+          "blocks": 0.7,
+          "fg_pct": 52.6,
+          "fg3_pct": 42.0,
+          "ft_pct": 82.9
+        },
+        "stats_total": {
+          "points": 1759,
+          "rebounds": 920,
+          "assists": 222
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 10, 2025",
+          "matchup": "NYK @ DET",
+          "result": "L",
+          "minutes": 29,
+          "points": 25,
+          "rebounds": 10,
+          "assists": 5,
+          "fg_pct": 52.6,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "NYK vs. BOS",
+          "result": "L",
+          "minutes": 43,
+          "points": 34,
+          "rebounds": 14,
+          "assists": 2,
+          "fg_pct": 66.7,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "NYK vs. PHX",
+          "result": "W",
+          "minutes": 36,
+          "points": 19,
+          "rebounds": 13,
+          "assists": 1,
+          "fg_pct": 53.8,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 05, 2025",
+          "matchup": "NYK @ ATL",
+          "result": "W",
+          "minutes": 33,
+          "points": 30,
+          "rebounds": 11,
+          "assists": 3,
+          "fg_pct": 66.7,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "NYK @ CLE",
+          "result": "L",
+          "minutes": 34,
+          "points": 25,
+          "rebounds": 13,
+          "assists": 1,
+          "fg_pct": 56.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 30, 2025",
+          "matchup": "NYK vs. POR",
+          "result": "W",
+          "minutes": 32,
+          "points": 10,
+          "rebounds": 11,
+          "assists": 2,
+          "fg_pct": 30.8,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "NYK @ MIL",
+          "result": "W",
+          "minutes": 32,
+          "points": 14,
+          "rebounds": 10,
+          "assists": 1,
+          "fg_pct": 37.5,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "NYK vs. LAC",
+          "result": "L",
+          "minutes": 39,
+          "points": 34,
+          "rebounds": 14,
+          "assists": 4,
+          "fg_pct": 55.0,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "Mar 25, 2025",
+          "matchup": "NYK vs. DAL",
+          "result": "W",
+          "minutes": 34,
+          "points": 26,
+          "rebounds": 12,
+          "assists": 11,
+          "fg_pct": 52.6,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 22, 2025",
+          "matchup": "NYK vs. WAS",
+          "result": "W",
+          "minutes": 37,
+          "points": 31,
+          "rebounds": 11,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 20.0
+        }
+      ]
+    },
+    "Jordan Walsh": {
+      "id": 1641775,
+      "full_name": "Jordan Walsh",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Guard",
+        "jersey": "27"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 52,
+        "stats_per_game": {
+          "points": 1.6,
+          "rebounds": 1.3,
+          "assists": 0.4,
+          "steals": 0.2,
+          "blocks": 0.2,
+          "fg_pct": 36.1,
+          "fg3_pct": 27.3,
+          "ft_pct": 58.3
+        },
+        "stats_total": {
+          "points": 82,
+          "rebounds": 69,
+          "assists": 19
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 21,
+          "points": 10,
+          "rebounds": 8,
+          "assists": 1,
+          "fg_pct": 57.1,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 2,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 9,
+          "points": 0,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 7,
+          "points": 0,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 2,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 5,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 6,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 1,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 2,
+          "points": 4,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 14, 2025",
+          "matchup": "BOS @ MIA",
+          "result": "W",
+          "minutes": 7,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Joel Embiid": {
+      "id": 203954,
+      "full_name": "Joel Embiid",
+      "info": {
+        "is_active": true,
+        "team": "76ers",
+        "team_abbreviation": "PHI",
+        "position": "Center-Forward",
+        "jersey": "21"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "PHI",
+        "games_played": 19,
+        "stats_per_game": {
+          "points": 23.8,
+          "rebounds": 8.2,
+          "assists": 4.5,
+          "steals": 0.7,
+          "blocks": 0.9,
+          "fg_pct": 44.4,
+          "fg3_pct": 29.9,
+          "ft_pct": 88.2
+        },
+        "stats_total": {
+          "points": 452,
+          "rebounds": 155,
+          "assists": 85
+        }
+      },
+      "recent_games": [
+        {
+          "date": "FEB 22, 2025",
+          "matchup": "PHI vs. BKN",
+          "result": "L",
+          "minutes": 31,
+          "points": 14,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 30.8,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "FEB 20, 2025",
+          "matchup": "PHI vs. BOS",
+          "result": "L",
+          "minutes": 27,
+          "points": 15,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "FEB 11, 2025",
+          "matchup": "PHI vs. TOR",
+          "result": "L",
+          "minutes": 38,
+          "points": 27,
+          "rebounds": 12,
+          "assists": 4,
+          "fg_pct": 42.1,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "FEB 09, 2025",
+          "matchup": "PHI @ MIL",
+          "result": "L",
+          "minutes": 30,
+          "points": 27,
+          "rebounds": 12,
+          "assists": 6,
+          "fg_pct": 50.0,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "FEB 07, 2025",
+          "matchup": "PHI @ DET",
+          "result": "L",
+          "minutes": 30,
+          "points": 23,
+          "rebounds": 7,
+          "assists": 6,
+          "fg_pct": 38.9,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "FEB 04, 2025",
+          "matchup": "PHI vs. DAL",
+          "result": "W",
+          "minutes": 36,
+          "points": 29,
+          "rebounds": 11,
+          "assists": 10,
+          "fg_pct": 52.2,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "JAN 04, 2025",
+          "matchup": "PHI @ BKN",
+          "result": "W",
+          "minutes": 29,
+          "points": 28,
+          "rebounds": 12,
+          "assists": 6,
+          "fg_pct": 50.0,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "JAN 02, 2025",
+          "matchup": "PHI @ GSW",
+          "result": "L",
+          "minutes": 31,
+          "points": 28,
+          "rebounds": 14,
+          "assists": 2,
+          "fg_pct": 42.1,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "DEC 30, 2024",
+          "matchup": "PHI @ POR",
+          "result": "W",
+          "minutes": 36,
+          "points": 37,
+          "rebounds": 9,
+          "assists": 3,
+          "fg_pct": 57.1,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "DEC 28, 2024",
+          "matchup": "PHI @ UTA",
+          "result": "W",
+          "minutes": 35,
+          "points": 32,
+          "rebounds": 5,
+          "assists": 4,
+          "fg_pct": 47.6,
+          "fg3_pct": 25.0
+        }
+      ]
+    },
+    "Devin Booker": {
+      "id": 1626164,
+      "full_name": "Devin Booker",
+      "info": {
+        "is_active": true,
+        "team": "Suns",
+        "team_abbreviation": "PHX",
+        "position": "Guard",
+        "jersey": "1"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "PHX",
+        "games_played": 75,
+        "stats_per_game": {
+          "points": 25.6,
+          "rebounds": 4.1,
+          "assists": 7.1,
+          "steals": 0.9,
+          "blocks": 0.2,
+          "fg_pct": 46.1,
+          "fg3_pct": 33.2,
+          "ft_pct": 89.4
+        },
+        "stats_total": {
+          "points": 1923,
+          "rebounds": 305,
+          "assists": 529
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "PHX vs. SAS",
+          "result": "W",
+          "minutes": 28,
+          "points": 18,
+          "rebounds": 3,
+          "assists": 5,
+          "fg_pct": 66.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "PHX vs. OKC",
+          "result": "L",
+          "minutes": 40,
+          "points": 20,
+          "rebounds": 6,
+          "assists": 14,
+          "fg_pct": 45.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "PHX vs. GSW",
+          "result": "L",
+          "minutes": 30,
+          "points": 21,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 41.2,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "PHX @ NYK",
+          "result": "L",
+          "minutes": 40,
+          "points": 40,
+          "rebounds": 4,
+          "assists": 3,
+          "fg_pct": 55.2,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "PHX @ BOS",
+          "result": "L",
+          "minutes": 38,
+          "points": 37,
+          "rebounds": 5,
+          "assists": 6,
+          "fg_pct": 51.7,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "PHX @ MIL",
+          "result": "L",
+          "minutes": 43,
+          "points": 39,
+          "rebounds": 3,
+          "assists": 11,
+          "fg_pct": 43.8,
+          "fg3_pct": 27.3
+        },
+        {
+          "date": "Mar 30, 2025",
+          "matchup": "PHX vs. HOU",
+          "result": "L",
+          "minutes": 31,
+          "points": 28,
+          "rebounds": 3,
+          "assists": 3,
+          "fg_pct": 70.6,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "PHX @ MIN",
+          "result": "L",
+          "minutes": 39,
+          "points": 10,
+          "rebounds": 0,
+          "assists": 6,
+          "fg_pct": 28.6,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "PHX vs. BOS",
+          "result": "L",
+          "minutes": 34,
+          "points": 14,
+          "rebounds": 7,
+          "assists": 10,
+          "fg_pct": 30.8,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "PHX vs. MIL",
+          "result": "W",
+          "minutes": 40,
+          "points": 19,
+          "rebounds": 7,
+          "assists": 12,
+          "fg_pct": 38.9,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Kevin Durant": {
+      "id": 201142,
+      "full_name": "Kevin Durant",
+      "info": {
+        "is_active": true,
+        "team": "Rockets",
+        "team_abbreviation": "HOU",
+        "position": "Forward",
+        "jersey": "7"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "PHX",
+        "games_played": 62,
+        "stats_per_game": {
+          "points": 26.6,
+          "rebounds": 6.0,
+          "assists": 4.2,
+          "steals": 0.8,
+          "blocks": 1.2,
+          "fg_pct": 52.7,
+          "fg3_pct": 43.0,
+          "ft_pct": 83.9
+        },
+        "stats_total": {
+          "points": 1647,
+          "rebounds": 374,
+          "assists": 263
+        }
+      },
+      "recent_games": [
+        {
+          "date": "MAR 30, 2025",
+          "matchup": "PHX vs. HOU",
+          "result": "L",
+          "minutes": 23,
+          "points": 11,
+          "rebounds": 7,
+          "assists": 1,
+          "fg_pct": 45.5,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "MAR 28, 2025",
+          "matchup": "PHX @ MIN",
+          "result": "L",
+          "minutes": 34,
+          "points": 23,
+          "rebounds": 6,
+          "assists": 2,
+          "fg_pct": 36.8,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "MAR 26, 2025",
+          "matchup": "PHX vs. BOS",
+          "result": "L",
+          "minutes": 30,
+          "points": 30,
+          "rebounds": 1,
+          "assists": 2,
+          "fg_pct": 68.8,
+          "fg3_pct": 75.0
+        },
+        {
+          "date": "MAR 24, 2025",
+          "matchup": "PHX vs. MIL",
+          "result": "W",
+          "minutes": 37,
+          "points": 38,
+          "rebounds": 8,
+          "assists": 5,
+          "fg_pct": 52.4,
+          "fg3_pct": 77.8
+        },
+        {
+          "date": "MAR 21, 2025",
+          "matchup": "PHX vs. CLE",
+          "result": "W",
+          "minutes": 39,
+          "points": 42,
+          "rebounds": 6,
+          "assists": 8,
+          "fg_pct": 58.6,
+          "fg3_pct": 44.4
+        },
+        {
+          "date": "MAR 19, 2025",
+          "matchup": "PHX vs. CHI",
+          "result": "W",
+          "minutes": 36,
+          "points": 26,
+          "rebounds": 4,
+          "assists": 8,
+          "fg_pct": 53.3,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "MAR 17, 2025",
+          "matchup": "PHX vs. TOR",
+          "result": "W",
+          "minutes": 26,
+          "points": 14,
+          "rebounds": 3,
+          "assists": 3,
+          "fg_pct": 71.4,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "MAR 16, 2025",
+          "matchup": "PHX @ LAL",
+          "result": "L",
+          "minutes": 37,
+          "points": 21,
+          "rebounds": 9,
+          "assists": 2,
+          "fg_pct": 35.3,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "MAR 14, 2025",
+          "matchup": "PHX vs. SAC",
+          "result": "W",
+          "minutes": 36,
+          "points": 22,
+          "rebounds": 4,
+          "assists": 6,
+          "fg_pct": 46.7,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "MAR 12, 2025",
+          "matchup": "PHX @ HOU",
+          "result": "L",
+          "minutes": 37,
+          "points": 19,
+          "rebounds": 7,
+          "assists": 0,
+          "fg_pct": 66.7,
+          "fg3_pct": 100.0
+        }
+      ]
+    },
+    "Shai Gilgeous-Alexander": {
+      "id": 1628983,
+      "full_name": "Shai Gilgeous-Alexander",
+      "info": {
+        "is_active": true,
+        "team": "Thunder",
+        "team_abbreviation": "OKC",
+        "position": "Guard",
+        "jersey": "2"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "OKC",
+        "games_played": 76,
+        "stats_per_game": {
+          "points": 32.7,
+          "rebounds": 5.0,
+          "assists": 6.4,
+          "steals": 1.7,
+          "blocks": 1.0,
+          "fg_pct": 51.9,
+          "fg3_pct": 37.5,
+          "ft_pct": 89.8
+        },
+        "stats_total": {
+          "points": 2484,
+          "rebounds": 379,
+          "assists": 486
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "OKC vs. LAL",
+          "result": "W",
+          "minutes": 37,
+          "points": 42,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 53.8,
+          "fg3_pct": 55.6
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "OKC vs. LAL",
+          "result": "L",
+          "minutes": 30,
+          "points": 26,
+          "rebounds": 3,
+          "assists": 9,
+          "fg_pct": 52.2,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "OKC @ HOU",
+          "result": "L",
+          "minutes": 35,
+          "points": 22,
+          "rebounds": 4,
+          "assists": 8,
+          "fg_pct": 45.5,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "OKC vs. DET",
+          "result": "W",
+          "minutes": 35,
+          "points": 33,
+          "rebounds": 6,
+          "assists": 3,
+          "fg_pct": 38.5,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "OKC vs. CHI",
+          "result": "W",
+          "minutes": 27,
+          "points": 27,
+          "rebounds": 0,
+          "assists": 12,
+          "fg_pct": 64.3,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "OKC vs. IND",
+          "result": "W",
+          "minutes": 31,
+          "points": 33,
+          "rebounds": 7,
+          "assists": 8,
+          "fg_pct": 43.5,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "OKC vs. MEM",
+          "result": "W",
+          "minutes": 34,
+          "points": 37,
+          "rebounds": 3,
+          "assists": 6,
+          "fg_pct": 60.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 25, 2025",
+          "matchup": "OKC @ SAC",
+          "result": "W",
+          "minutes": 33,
+          "points": 32,
+          "rebounds": 8,
+          "assists": 5,
+          "fg_pct": 43.5,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "OKC @ LAC",
+          "result": "W",
+          "minutes": 37,
+          "points": 26,
+          "rebounds": 3,
+          "assists": 8,
+          "fg_pct": 24.1,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "OKC vs. CHA",
+          "result": "W",
+          "minutes": 30,
+          "points": 30,
+          "rebounds": 6,
+          "assists": 9,
+          "fg_pct": 72.2,
+          "fg3_pct": 100.0
+        }
+      ]
+    },
+    "Al Horford": {
+      "id": 201143,
+      "full_name": "Al Horford",
+      "info": {
+        "is_active": true,
+        "team": "Warriors",
+        "team_abbreviation": "GSW",
+        "position": "Center-Forward",
+        "jersey": "20"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 60,
+        "stats_per_game": {
+          "points": 9.0,
+          "rebounds": 6.2,
+          "assists": 2.1,
+          "steals": 0.6,
+          "blocks": 0.8,
+          "fg_pct": 42.3,
+          "fg3_pct": 36.3,
+          "ft_pct": 89.5
+        },
+        "stats_total": {
+          "points": 538,
+          "rebounds": 369,
+          "assists": 128
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 28,
+          "points": 13,
+          "rebounds": 11,
+          "assists": 0,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 28,
+          "points": 11,
+          "rebounds": 10,
+          "assists": 4,
+          "fg_pct": 33.3,
+          "fg3_pct": 37.5
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 25,
+          "points": 7,
+          "rebounds": 3,
+          "assists": 2,
+          "fg_pct": 60.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 37,
+          "points": 26,
+          "rebounds": 8,
+          "assists": 2,
+          "fg_pct": 50.0,
+          "fg3_pct": 46.2
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 26,
+          "points": 16,
+          "rebounds": 10,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "BOS @ POR",
+          "result": "W",
+          "minutes": 30,
+          "points": 14,
+          "rebounds": 6,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 27,
+          "points": 5,
+          "rebounds": 9,
+          "assists": 2,
+          "fg_pct": 28.6,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "BOS vs. BKN",
+          "result": "W",
+          "minutes": 32,
+          "points": 4,
+          "rebounds": 5,
+          "assists": 6,
+          "fg_pct": 20.0,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 14, 2025",
+          "matchup": "BOS @ MIA",
+          "result": "W",
+          "minutes": 32,
+          "points": 9,
+          "rebounds": 9,
+          "assists": 5,
+          "fg_pct": 42.9,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 12, 2025",
+          "matchup": "BOS vs. OKC",
+          "result": "L",
+          "minutes": 34,
+          "points": 18,
+          "rebounds": 10,
+          "assists": 6,
+          "fg_pct": 42.9,
+          "fg3_pct": 50.0
+        }
+      ]
+    },
+    "Kyrie Irving": {
+      "id": 202681,
+      "full_name": "Kyrie Irving",
+      "info": {
+        "is_active": true,
+        "team": "Mavericks",
+        "team_abbreviation": "DAL",
+        "position": "Guard",
+        "jersey": "11"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "DAL",
+        "games_played": 50,
+        "stats_per_game": {
+          "points": 24.7,
+          "rebounds": 4.8,
+          "assists": 4.6,
+          "steals": 1.3,
+          "blocks": 0.5,
+          "fg_pct": 47.3,
+          "fg3_pct": 40.1,
+          "ft_pct": 91.6
+        },
+        "stats_total": {
+          "points": 1234,
+          "rebounds": 240,
+          "assists": 231
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 03, 2025",
+          "matchup": "DAL vs. SAC",
+          "result": "L",
+          "minutes": 9,
+          "points": 7,
+          "rebounds": 1,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 01, 2025",
+          "matchup": "DAL vs. MIL",
+          "result": "L",
+          "minutes": 38,
+          "points": 31,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 39.1,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Feb 27, 2025",
+          "matchup": "DAL vs. CHA",
+          "result": "W",
+          "minutes": 38,
+          "points": 25,
+          "rebounds": 9,
+          "assists": 5,
+          "fg_pct": 45.8,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Feb 25, 2025",
+          "matchup": "DAL @ LAL",
+          "result": "L",
+          "minutes": 40,
+          "points": 35,
+          "rebounds": 7,
+          "assists": 4,
+          "fg_pct": 44.4,
+          "fg3_pct": 45.5
+        },
+        {
+          "date": "Feb 23, 2025",
+          "matchup": "DAL @ GSW",
+          "result": "L",
+          "minutes": 32,
+          "points": 17,
+          "rebounds": 5,
+          "assists": 4,
+          "fg_pct": 38.9,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Feb 21, 2025",
+          "matchup": "DAL vs. NOP",
+          "result": "W",
+          "minutes": 37,
+          "points": 35,
+          "rebounds": 2,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 41.7
+        },
+        {
+          "date": "Feb 12, 2025",
+          "matchup": "DAL vs. GSW",
+          "result": "W",
+          "minutes": 40,
+          "points": 42,
+          "rebounds": 7,
+          "assists": 0,
+          "fg_pct": 60.0,
+          "fg3_pct": 70.0
+        },
+        {
+          "date": "Feb 10, 2025",
+          "matchup": "DAL vs. SAC",
+          "result": "L",
+          "minutes": 44,
+          "points": 30,
+          "rebounds": 9,
+          "assists": 7,
+          "fg_pct": 44.0,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Feb 08, 2025",
+          "matchup": "DAL vs. HOU",
+          "result": "W",
+          "minutes": 42,
+          "points": 13,
+          "rebounds": 2,
+          "assists": 6,
+          "fg_pct": 26.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 06, 2025",
+          "matchup": "DAL @ BOS",
+          "result": "W",
+          "minutes": 40,
+          "points": 19,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 41.2,
+          "fg3_pct": 50.0
+        }
+      ]
+    },
+    "Torrey Craig": {
+      "id": 1628470,
+      "full_name": "Torrey Craig",
+      "info": {
+        "is_active": false,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Forward",
+        "jersey": "12"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "TOT",
+        "games_played": 26,
+        "stats_per_game": {
+          "points": 4.2,
+          "rebounds": 2.8,
+          "assists": 0.7,
+          "steals": 0.3,
+          "blocks": 0.5,
+          "fg_pct": 42.2,
+          "fg3_pct": 36.4,
+          "ft_pct": 66.7
+        },
+        "stats_total": {
+          "points": 108,
+          "rebounds": 73,
+          "assists": 17
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 19,
+          "points": 0,
+          "rebounds": 3,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 12,
+          "points": 2,
+          "rebounds": 5,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 28,
+          "points": 0,
+          "rebounds": 7,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 16,
+          "points": 3,
+          "rebounds": 8,
+          "assists": 2,
+          "fg_pct": 33.3,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 19,
+          "points": 2,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 20.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 6,
+          "points": 3,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "BOS @ POR",
+          "result": "W",
+          "minutes": 13,
+          "points": 5,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 66.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 1,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "BOS vs. BKN",
+          "result": "W",
+          "minutes": 8,
+          "points": 2,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 12, 2025",
+          "matchup": "BOS vs. OKC",
+          "result": "L",
+          "minutes": 4,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Zion Williamson": {
+      "id": 1629627,
+      "full_name": "Zion Williamson",
+      "info": {
+        "is_active": true,
+        "team": "Pelicans",
+        "team_abbreviation": "NOP",
+        "position": "Forward",
+        "jersey": "1"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "NOP",
+        "games_played": 30,
+        "stats_per_game": {
+          "points": 24.6,
+          "rebounds": 7.2,
+          "assists": 5.3,
+          "steals": 1.2,
+          "blocks": 0.9,
+          "fg_pct": 56.7,
+          "fg3_pct": 23.1,
+          "ft_pct": 65.6
+        },
+        "stats_total": {
+          "points": 737,
+          "rebounds": 216,
+          "assists": 159
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 19, 2025",
+          "matchup": "NOP @ MIN",
+          "result": "W",
+          "minutes": 30,
+          "points": 29,
+          "rebounds": 5,
+          "assists": 8,
+          "fg_pct": 75.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 17, 2025",
+          "matchup": "NOP vs. DET",
+          "result": "L",
+          "minutes": 28,
+          "points": 30,
+          "rebounds": 6,
+          "assists": 3,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 13, 2025",
+          "matchup": "NOP vs. ORL",
+          "result": "L",
+          "minutes": 28,
+          "points": 20,
+          "rebounds": 8,
+          "assists": 5,
+          "fg_pct": 53.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 11, 2025",
+          "matchup": "NOP vs. LAC",
+          "result": "W",
+          "minutes": 33,
+          "points": 22,
+          "rebounds": 10,
+          "assists": 12,
+          "fg_pct": 61.5,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 08, 2025",
+          "matchup": "NOP @ HOU",
+          "result": "L",
+          "minutes": 28,
+          "points": 20,
+          "rebounds": 2,
+          "assists": 3,
+          "fg_pct": 52.6,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 06, 2025",
+          "matchup": "NOP vs. HOU",
+          "result": "L",
+          "minutes": 32,
+          "points": 20,
+          "rebounds": 10,
+          "assists": 3,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 04, 2025",
+          "matchup": "NOP @ LAL",
+          "result": "L",
+          "minutes": 26,
+          "points": 37,
+          "rebounds": 4,
+          "assists": 6,
+          "fg_pct": 73.9,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 02, 2025",
+          "matchup": "NOP @ UTA",
+          "result": "W",
+          "minutes": 29,
+          "points": 24,
+          "rebounds": 6,
+          "assists": 9,
+          "fg_pct": 61.1,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 27, 2025",
+          "matchup": "NOP @ PHX",
+          "result": "W",
+          "minutes": 31,
+          "points": 27,
+          "rebounds": 10,
+          "assists": 11,
+          "fg_pct": 76.5,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 25, 2025",
+          "matchup": "NOP vs. SAS",
+          "result": "W",
+          "minutes": 29,
+          "points": 18,
+          "rebounds": 6,
+          "assists": 3,
+          "fg_pct": 53.3,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Ja Morant": {
+      "id": 1629630,
+      "full_name": "Ja Morant",
+      "info": {
+        "is_active": true,
+        "team": "Grizzlies",
+        "team_abbreviation": "MEM",
+        "position": "Guard",
+        "jersey": "12"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "MEM",
+        "games_played": 50,
+        "stats_per_game": {
+          "points": 23.2,
+          "rebounds": 4.1,
+          "assists": 7.3,
+          "steals": 1.2,
+          "blocks": 0.2,
+          "fg_pct": 45.4,
+          "fg3_pct": 30.9,
+          "ft_pct": 82.4
+        },
+        "stats_total": {
+          "points": 1159,
+          "rebounds": 205,
+          "assists": 364
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "MEM @ DEN",
+          "result": "L",
+          "minutes": 34,
+          "points": 21,
+          "rebounds": 2,
+          "assists": 6,
+          "fg_pct": 38.1,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 10, 2025",
+          "matchup": "MEM vs. MIN",
+          "result": "L",
+          "minutes": 36,
+          "points": 36,
+          "rebounds": 1,
+          "assists": 6,
+          "fg_pct": 48.1,
+          "fg3_pct": 38.5
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "MEM @ CHA",
+          "result": "W",
+          "minutes": 27,
+          "points": 28,
+          "rebounds": 5,
+          "assists": 8,
+          "fg_pct": 47.6,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "MEM @ MIA",
+          "result": "W",
+          "minutes": 32,
+          "points": 30,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 50.0,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "MEM vs. GSW",
+          "result": "L",
+          "minutes": 33,
+          "points": 36,
+          "rebounds": 3,
+          "assists": 6,
+          "fg_pct": 63.6,
+          "fg3_pct": 62.5
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "MEM vs. BOS",
+          "result": "L",
+          "minutes": 35,
+          "points": 26,
+          "rebounds": 6,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "MEM vs. LAL",
+          "result": "L",
+          "minutes": 31,
+          "points": 22,
+          "rebounds": 8,
+          "assists": 10,
+          "fg_pct": 39.1,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 14, 2025",
+          "matchup": "MEM vs. CLE",
+          "result": "L",
+          "minutes": 35,
+          "points": 44,
+          "rebounds": 8,
+          "assists": 7,
+          "fg_pct": 77.3,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 12, 2025",
+          "matchup": "MEM vs. UTA",
+          "result": "W",
+          "minutes": 31,
+          "points": 28,
+          "rebounds": 1,
+          "assists": 7,
+          "fg_pct": 47.1,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "Mar 10, 2025",
+          "matchup": "MEM vs. PHX",
+          "result": "W",
+          "minutes": 34,
+          "points": 29,
+          "rebounds": 4,
+          "assists": 12,
+          "fg_pct": 69.2,
+          "fg3_pct": 20.0
+        }
+      ]
+    },
+    "Jaden Springer": {
+      "id": 1630531,
+      "full_name": "Jaden Springer",
+      "info": {
+        "is_active": false,
+        "team": "Jazz",
+        "team_abbreviation": "UTA",
+        "position": "Guard",
+        "jersey": "11"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "TOT",
+        "games_played": 43,
+        "stats_per_game": {
+          "points": 2.5,
+          "rebounds": 1.3,
+          "assists": 0.8,
+          "steals": 0.6,
+          "blocks": 0.1,
+          "fg_pct": 38.9,
+          "fg3_pct": 25.0,
+          "ft_pct": 71.1
+        },
+        "stats_total": {
+          "points": 109,
+          "rebounds": 58,
+          "assists": 33
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "UTA @ MIN",
+          "result": "L",
+          "minutes": 6,
+          "points": 0,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "UTA vs. OKC",
+          "result": "L",
+          "minutes": 28,
+          "points": 3,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 11.1,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "UTA vs. POR",
+          "result": "W",
+          "minutes": 39,
+          "points": 6,
+          "rebounds": 6,
+          "assists": 4,
+          "fg_pct": 25.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "UTA @ ATL",
+          "result": "L",
+          "minutes": 16,
+          "points": 9,
+          "rebounds": 1,
+          "assists": 1,
+          "fg_pct": 100.0,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "UTA @ IND",
+          "result": "L",
+          "minutes": 15,
+          "points": 5,
+          "rebounds": 3,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "UTA @ HOU",
+          "result": "L",
+          "minutes": 5,
+          "points": 3,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "UTA @ CHA",
+          "result": "L",
+          "minutes": 27,
+          "points": 11,
+          "rebounds": 4,
+          "assists": 2,
+          "fg_pct": 44.4,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "UTA vs. HOU",
+          "result": "L",
+          "minutes": 5,
+          "points": 0,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 25, 2025",
+          "matchup": "UTA vs. MEM",
+          "result": "L",
+          "minutes": 0,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "UTA vs. CLE",
+          "result": "L",
+          "minutes": 0,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Anthony Davis": {
+      "id": 203076,
+      "full_name": "Anthony Davis",
+      "info": {
+        "is_active": true,
+        "team": "Wizards",
+        "team_abbreviation": "WAS",
+        "position": "Forward-Center",
+        "jersey": "23"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "TOT",
+        "games_played": 51,
+        "stats_per_game": {
+          "points": 24.7,
+          "rebounds": 11.6,
+          "assists": 3.5,
+          "steals": 1.2,
+          "blocks": 2.2,
+          "fg_pct": 51.6,
+          "fg3_pct": 28.2,
+          "ft_pct": 77.5
+        },
+        "stats_total": {
+          "points": 1261,
+          "rebounds": 590,
+          "assists": 181
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "DAL vs. TOR",
+          "result": "W",
+          "minutes": 30,
+          "points": 23,
+          "rebounds": 13,
+          "assists": 10,
+          "fg_pct": 55.6,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "DAL vs. LAL",
+          "result": "L",
+          "minutes": 33,
+          "points": 13,
+          "rebounds": 11,
+          "assists": 6,
+          "fg_pct": 38.5,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 05, 2025",
+          "matchup": "DAL @ LAC",
+          "result": "L",
+          "minutes": 27,
+          "points": 27,
+          "rebounds": 9,
+          "assists": 0,
+          "fg_pct": 42.1,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "DAL vs. ATL",
+          "result": "W",
+          "minutes": 30,
+          "points": 34,
+          "rebounds": 15,
+          "assists": 2,
+          "fg_pct": 60.9,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "DAL vs. BKN",
+          "result": "L",
+          "minutes": 28,
+          "points": 12,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "DAL @ CHI",
+          "result": "W",
+          "minutes": 30,
+          "points": 18,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 30.4,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "DAL @ ORL",
+          "result": "W",
+          "minutes": 29,
+          "points": 15,
+          "rebounds": 7,
+          "assists": 2,
+          "fg_pct": 26.3,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "DAL @ BKN",
+          "result": "W",
+          "minutes": 27,
+          "points": 12,
+          "rebounds": 6,
+          "assists": 3,
+          "fg_pct": 66.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 08, 2025",
+          "matchup": "DAL vs. HOU",
+          "result": "W",
+          "minutes": 31,
+          "points": 26,
+          "rebounds": 16,
+          "assists": 7,
+          "fg_pct": 55.6,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Jan 28, 2025",
+          "matchup": "LAL @ PHI",
+          "result": "L",
+          "minutes": 10,
+          "points": 4,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 66.7,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Franz Wagner": {
+      "id": 1630532,
+      "full_name": "Franz Wagner",
+      "info": {
+        "is_active": true,
+        "team": "Magic",
+        "team_abbreviation": "ORL",
+        "position": "Forward",
+        "jersey": "22"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "ORL",
+        "games_played": 60,
+        "stats_per_game": {
+          "points": 24.1,
+          "rebounds": 5.7,
+          "assists": 4.7,
+          "steals": 1.2,
+          "blocks": 0.3,
+          "fg_pct": 46.3,
+          "fg3_pct": 29.5,
+          "ft_pct": 87.1
+        },
+        "stats_total": {
+          "points": 1449,
+          "rebounds": 342,
+          "assists": 284
+        }
+      },
+      "recent_games": [
+        {
+          "date": "APR 09, 2025",
+          "matchup": "ORL vs. BOS",
+          "result": "W",
+          "minutes": 26,
+          "points": 23,
+          "rebounds": 8,
+          "assists": 2,
+          "fg_pct": 52.9,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "APR 08, 2025",
+          "matchup": "ORL vs. ATL",
+          "result": "W",
+          "minutes": 40,
+          "points": 22,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 40.0,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "APR 03, 2025",
+          "matchup": "ORL @ WAS",
+          "result": "W",
+          "minutes": 34,
+          "points": 27,
+          "rebounds": 5,
+          "assists": 5,
+          "fg_pct": 52.6,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "APR 01, 2025",
+          "matchup": "ORL @ SAS",
+          "result": "W",
+          "minutes": 36,
+          "points": 24,
+          "rebounds": 5,
+          "assists": 7,
+          "fg_pct": 45.0,
+          "fg3_pct": 30.0
+        },
+        {
+          "date": "MAR 31, 2025",
+          "matchup": "ORL vs. LAC",
+          "result": "L",
+          "minutes": 40,
+          "points": 21,
+          "rebounds": 5,
+          "assists": 6,
+          "fg_pct": 42.1,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "MAR 29, 2025",
+          "matchup": "ORL vs. SAC",
+          "result": "W",
+          "minutes": 24,
+          "points": 21,
+          "rebounds": 2,
+          "assists": 3,
+          "fg_pct": 66.7,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "MAR 27, 2025",
+          "matchup": "ORL vs. DAL",
+          "result": "L",
+          "minutes": 36,
+          "points": 20,
+          "rebounds": 9,
+          "assists": 2,
+          "fg_pct": 38.1,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "MAR 25, 2025",
+          "matchup": "ORL @ CHA",
+          "result": "W",
+          "minutes": 35,
+          "points": 26,
+          "rebounds": 8,
+          "assists": 4,
+          "fg_pct": 36.4,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "MAR 24, 2025",
+          "matchup": "ORL vs. LAL",
+          "result": "W",
+          "minutes": 38,
+          "points": 32,
+          "rebounds": 5,
+          "assists": 9,
+          "fg_pct": 50.0,
+          "fg3_pct": 30.0
+        },
+        {
+          "date": "MAR 21, 2025",
+          "matchup": "ORL @ WAS",
+          "result": "W",
+          "minutes": 24,
+          "points": 21,
+          "rebounds": 8,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 25.0
+        }
+      ]
+    },
+    "Tyler Herro": {
+      "id": 1629639,
+      "full_name": "Tyler Herro",
+      "info": {
+        "is_active": true,
+        "team": "Heat",
+        "team_abbreviation": "MIA",
+        "position": "Guard",
+        "jersey": "14"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "MIA",
+        "games_played": 77,
+        "stats_per_game": {
+          "points": 23.9,
+          "rebounds": 5.2,
+          "assists": 5.5,
+          "steals": 0.9,
+          "blocks": 0.2,
+          "fg_pct": 47.2,
+          "fg3_pct": 37.5,
+          "ft_pct": 87.8
+        },
+        "stats_total": {
+          "points": 1840,
+          "rebounds": 399,
+          "assists": 424
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "MIA @ NOP",
+          "result": "W",
+          "minutes": 22,
+          "points": 22,
+          "rebounds": 4,
+          "assists": 4,
+          "fg_pct": 70.0,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "MIA @ CHI",
+          "result": "L",
+          "minutes": 36,
+          "points": 30,
+          "rebounds": 4,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Apr 07, 2025",
+          "matchup": "MIA vs. PHI",
+          "result": "W",
+          "minutes": 33,
+          "points": 20,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 57.1,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "MIA vs. MEM",
+          "result": "L",
+          "minutes": 37,
+          "points": 35,
+          "rebounds": 9,
+          "assists": 4,
+          "fg_pct": 52.2,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "MIA @ BOS",
+          "result": "W",
+          "minutes": 38,
+          "points": 25,
+          "rebounds": 6,
+          "assists": 9,
+          "fg_pct": 38.9,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "MIA @ WAS",
+          "result": "W",
+          "minutes": 33,
+          "points": 27,
+          "rebounds": 5,
+          "assists": 5,
+          "fg_pct": 47.4,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "MIA @ PHI",
+          "result": "W",
+          "minutes": 34,
+          "points": 30,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 64.7,
+          "fg3_pct": 55.6
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "MIA vs. ATL",
+          "result": "W",
+          "minutes": 38,
+          "points": 36,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 76.5,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Mar 25, 2025",
+          "matchup": "MIA vs. GSW",
+          "result": "W",
+          "minutes": 36,
+          "points": 20,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 70.0,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "MIA vs. CHA",
+          "result": "W",
+          "minutes": 40,
+          "points": 29,
+          "rebounds": 6,
+          "assists": 3,
+          "fg_pct": 57.9,
+          "fg3_pct": 40.0
+        }
+      ]
+    },
+    "Damian Lillard": {
+      "id": 203081,
+      "full_name": "Damian Lillard",
+      "info": {
+        "is_active": true,
+        "team": "Trail Blazers",
+        "team_abbreviation": "POR",
+        "position": "Guard",
+        "jersey": "0"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "MIL",
+        "games_played": 58,
+        "stats_per_game": {
+          "points": 24.9,
+          "rebounds": 4.7,
+          "assists": 7.1,
+          "steals": 1.2,
+          "blocks": 0.2,
+          "fg_pct": 44.8,
+          "fg3_pct": 37.6,
+          "ft_pct": 92.1
+        },
+        "stats_total": {
+          "points": 1447,
+          "rebounds": 272,
+          "assists": 410
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "MIL @ GSW",
+          "result": "L",
+          "minutes": 38,
+          "points": 16,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 33.3,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Mar 16, 2025",
+          "matchup": "MIL vs. OKC",
+          "result": "L",
+          "minutes": 29,
+          "points": 19,
+          "rebounds": 1,
+          "assists": 2,
+          "fg_pct": 33.3,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 15, 2025",
+          "matchup": "MIL vs. IND",
+          "result": "W",
+          "minutes": 37,
+          "points": 25,
+          "rebounds": 10,
+          "assists": 8,
+          "fg_pct": 46.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 13, 2025",
+          "matchup": "MIL vs. LAL",
+          "result": "W",
+          "minutes": 34,
+          "points": 22,
+          "rebounds": 6,
+          "assists": 10,
+          "fg_pct": 42.9,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 11, 2025",
+          "matchup": "MIL @ IND",
+          "result": "L",
+          "minutes": 37,
+          "points": 15,
+          "rebounds": 3,
+          "assists": 11,
+          "fg_pct": 28.6,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 09, 2025",
+          "matchup": "MIL vs. CLE",
+          "result": "L",
+          "minutes": 35,
+          "points": 22,
+          "rebounds": 5,
+          "assists": 4,
+          "fg_pct": 42.1,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Mar 08, 2025",
+          "matchup": "MIL vs. ORL",
+          "result": "L",
+          "minutes": 36,
+          "points": 26,
+          "rebounds": 7,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 44.4
+        },
+        {
+          "date": "Mar 05, 2025",
+          "matchup": "MIL vs. DAL",
+          "result": "W",
+          "minutes": 27,
+          "points": 34,
+          "rebounds": 3,
+          "assists": 5,
+          "fg_pct": 73.3,
+          "fg3_pct": 62.5
+        },
+        {
+          "date": "Mar 04, 2025",
+          "matchup": "MIL @ ATL",
+          "result": "W",
+          "minutes": 36,
+          "points": 23,
+          "rebounds": 5,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 01, 2025",
+          "matchup": "MIL @ DAL",
+          "result": "W",
+          "minutes": 36,
+          "points": 28,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 47.1,
+          "fg3_pct": 33.3
+        }
+      ]
+    },
+    "De'Aaron Fox": {
+      "id": 1628368,
+      "full_name": "De'Aaron Fox",
+      "info": {
+        "is_active": true,
+        "team": "Spurs",
+        "team_abbreviation": "SAS",
+        "position": "Guard",
+        "jersey": "4"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "TOT",
+        "games_played": 62,
+        "stats_per_game": {
+          "points": 23.5,
+          "rebounds": 4.8,
+          "assists": 6.3,
+          "steals": 1.5,
+          "blocks": 0.4,
+          "fg_pct": 46.3,
+          "fg3_pct": 31.0,
+          "ft_pct": 82.7
+        },
+        "stats_total": {
+          "points": 1459,
+          "rebounds": 298,
+          "assists": 392
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 12, 2025",
+          "matchup": "SAS vs. DAL",
+          "result": "W",
+          "minutes": 41,
+          "points": 32,
+          "rebounds": 9,
+          "assists": 11,
+          "fg_pct": 48.0,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 10, 2025",
+          "matchup": "SAS vs. DAL",
+          "result": "L",
+          "minutes": 34,
+          "points": 14,
+          "rebounds": 4,
+          "assists": 8,
+          "fg_pct": 46.2,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 09, 2025",
+          "matchup": "SAS @ MIN",
+          "result": "L",
+          "minutes": 27,
+          "points": 22,
+          "rebounds": 2,
+          "assists": 3,
+          "fg_pct": 66.7,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Mar 07, 2025",
+          "matchup": "SAS @ SAC",
+          "result": "L",
+          "minutes": 33,
+          "points": 16,
+          "rebounds": 4,
+          "assists": 8,
+          "fg_pct": 35.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 04, 2025",
+          "matchup": "SAS vs. BKN",
+          "result": "W",
+          "minutes": 27,
+          "points": 15,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 58.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 02, 2025",
+          "matchup": "SAS vs. OKC",
+          "result": "L",
+          "minutes": 34,
+          "points": 20,
+          "rebounds": 4,
+          "assists": 4,
+          "fg_pct": 44.4,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 01, 2025",
+          "matchup": "SAS @ MEM",
+          "result": "W",
+          "minutes": 35,
+          "points": 20,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 41.2,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Feb 26, 2025",
+          "matchup": "SAS @ HOU",
+          "result": "L",
+          "minutes": 28,
+          "points": 7,
+          "rebounds": 3,
+          "assists": 3,
+          "fg_pct": 25.0,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Feb 25, 2025",
+          "matchup": "SAS @ NOP",
+          "result": "L",
+          "minutes": 38,
+          "points": 15,
+          "rebounds": 3,
+          "assists": 9,
+          "fg_pct": 28.6,
+          "fg3_pct": 11.1
+        },
+        {
+          "date": "Feb 23, 2025",
+          "matchup": "SAS @ NOP",
+          "result": "L",
+          "minutes": 34,
+          "points": 13,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 18.8,
+          "fg3_pct": 14.3
+        }
+      ]
+    },
+    "Jayson Tatum": {
+      "id": 1628369,
+      "full_name": "Jayson Tatum",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Forward-Guard",
+        "jersey": "0"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 72,
+        "stats_per_game": {
+          "points": 26.8,
+          "rebounds": 8.7,
+          "assists": 6.0,
+          "steals": 1.1,
+          "blocks": 0.5,
+          "fg_pct": 45.2,
+          "fg3_pct": 34.3,
+          "ft_pct": 81.4
+        },
+        "stats_total": {
+          "points": 1932,
+          "rebounds": 623,
+          "assists": 431
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 32,
+          "points": 16,
+          "rebounds": 8,
+          "assists": 8,
+          "fg_pct": 35.3,
+          "fg3_pct": 30.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 48,
+          "points": 32,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 36.4
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 35,
+          "points": 23,
+          "rebounds": 8,
+          "assists": 8,
+          "fg_pct": 50.0,
+          "fg3_pct": 12.5
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 32,
+          "points": 16,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 23.5,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 38,
+          "points": 25,
+          "rebounds": 14,
+          "assists": 2,
+          "fg_pct": 41.7,
+          "fg3_pct": 18.2
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 36,
+          "points": 29,
+          "rebounds": 10,
+          "assists": 8,
+          "fg_pct": 45.5,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 26,
+          "points": 25,
+          "rebounds": 7,
+          "assists": 8,
+          "fg_pct": 53.3,
+          "fg3_pct": 55.6
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "BOS @ POR",
+          "result": "W",
+          "minutes": 37,
+          "points": 30,
+          "rebounds": 9,
+          "assists": 9,
+          "fg_pct": 45.8,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 33,
+          "points": 26,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 44.0,
+          "fg3_pct": 30.0
+        },
+        {
+          "date": "Mar 15, 2025",
+          "matchup": "BOS @ BKN",
+          "result": "W",
+          "minutes": 36,
+          "points": 20,
+          "rebounds": 8,
+          "assists": 8,
+          "fg_pct": 42.1,
+          "fg3_pct": 14.3
+        }
+      ]
+    },
+    "Anthony Edwards": {
+      "id": 1630162,
+      "full_name": "Anthony Edwards",
+      "info": {
+        "is_active": true,
+        "team": "Timberwolves",
+        "team_abbreviation": "MIN",
+        "position": "Guard",
+        "jersey": "5"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "MIN",
+        "games_played": 79,
+        "stats_per_game": {
+          "points": 27.6,
+          "rebounds": 5.7,
+          "assists": 4.5,
+          "steals": 1.2,
+          "blocks": 0.6,
+          "fg_pct": 44.7,
+          "fg3_pct": 39.5,
+          "ft_pct": 83.7
+        },
+        "stats_total": {
+          "points": 2177,
+          "rebounds": 450,
+          "assists": 359
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "MIN vs. UTA",
+          "result": "W",
+          "minutes": 40,
+          "points": 43,
+          "rebounds": 6,
+          "assists": 5,
+          "fg_pct": 48.4,
+          "fg3_pct": 38.9
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "MIN vs. BKN",
+          "result": "W",
+          "minutes": 31,
+          "points": 9,
+          "rebounds": 4,
+          "assists": 5,
+          "fg_pct": 36.4,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Apr 10, 2025",
+          "matchup": "MIN @ MEM",
+          "result": "W",
+          "minutes": 38,
+          "points": 44,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 68.4,
+          "fg3_pct": 63.6
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "MIN @ MIL",
+          "result": "L",
+          "minutes": 39,
+          "points": 25,
+          "rebounds": 7,
+          "assists": 4,
+          "fg_pct": 37.0,
+          "fg3_pct": 18.2
+        },
+        {
+          "date": "Apr 05, 2025",
+          "matchup": "MIN @ PHI",
+          "result": "W",
+          "minutes": 38,
+          "points": 37,
+          "rebounds": 2,
+          "assists": 2,
+          "fg_pct": 57.1,
+          "fg3_pct": 46.2
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "MIN @ BKN",
+          "result": "W",
+          "minutes": 32,
+          "points": 28,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 66.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "MIN @ DEN",
+          "result": "W",
+          "minutes": 50,
+          "points": 34,
+          "rebounds": 10,
+          "assists": 8,
+          "fg_pct": 48.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 30, 2025",
+          "matchup": "MIN vs. DET",
+          "result": "W",
+          "minutes": 36,
+          "points": 25,
+          "rebounds": 6,
+          "assists": 4,
+          "fg_pct": 47.4,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "MIN vs. PHX",
+          "result": "W",
+          "minutes": 28,
+          "points": 20,
+          "rebounds": 4,
+          "assists": 5,
+          "fg_pct": 42.1,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "MIN @ IND",
+          "result": "L",
+          "minutes": 34,
+          "points": 17,
+          "rebounds": 2,
+          "assists": 4,
+          "fg_pct": 36.8,
+          "fg3_pct": 9.1
+        }
+      ]
+    },
+    "LaMelo Ball": {
+      "id": 1630163,
+      "full_name": "LaMelo Ball",
+      "info": {
+        "is_active": true,
+        "team": "Hornets",
+        "team_abbreviation": "CHA",
+        "position": "Guard",
+        "jersey": "1"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "CHA",
+        "games_played": 47,
+        "stats_per_game": {
+          "points": 25.2,
+          "rebounds": 4.9,
+          "assists": 7.4,
+          "steals": 1.1,
+          "blocks": 0.3,
+          "fg_pct": 40.5,
+          "fg3_pct": 33.9,
+          "ft_pct": 84.3
+        },
+        "stats_total": {
+          "points": 1184,
+          "rebounds": 232,
+          "assists": 346
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 25, 2025",
+          "matchup": "CHA vs. ORL",
+          "result": "L",
+          "minutes": 29,
+          "points": 25,
+          "rebounds": 1,
+          "assists": 9,
+          "fg_pct": 69.2,
+          "fg3_pct": 75.0
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "CHA @ MIA",
+          "result": "L",
+          "minutes": 34,
+          "points": 18,
+          "rebounds": 3,
+          "assists": 11,
+          "fg_pct": 31.6,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 20, 2025",
+          "matchup": "CHA vs. NYK",
+          "result": "W",
+          "minutes": 28,
+          "points": 25,
+          "rebounds": 5,
+          "assists": 8,
+          "fg_pct": 43.5,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 16, 2025",
+          "matchup": "CHA @ LAC",
+          "result": "L",
+          "minutes": 31,
+          "points": 16,
+          "rebounds": 2,
+          "assists": 5,
+          "fg_pct": 27.8,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 14, 2025",
+          "matchup": "CHA @ SAS",
+          "result": "W",
+          "minutes": 29,
+          "points": 27,
+          "rebounds": 3,
+          "assists": 15,
+          "fg_pct": 69.2,
+          "fg3_pct": 63.6
+        },
+        {
+          "date": "Mar 12, 2025",
+          "matchup": "CHA @ ATL",
+          "result": "L",
+          "minutes": 30,
+          "points": 25,
+          "rebounds": 2,
+          "assists": 9,
+          "fg_pct": 28.6,
+          "fg3_pct": 27.3
+        },
+        {
+          "date": "Mar 10, 2025",
+          "matchup": "CHA @ MIA",
+          "result": "W",
+          "minutes": 36,
+          "points": 15,
+          "rebounds": 6,
+          "assists": 10,
+          "fg_pct": 23.8,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Mar 07, 2025",
+          "matchup": "CHA vs. CLE",
+          "result": "L",
+          "minutes": 23,
+          "points": 13,
+          "rebounds": 1,
+          "assists": 7,
+          "fg_pct": 30.8,
+          "fg3_pct": 30.0
+        },
+        {
+          "date": "Mar 05, 2025",
+          "matchup": "CHA vs. MIN",
+          "result": "L",
+          "minutes": 36,
+          "points": 28,
+          "rebounds": 10,
+          "assists": 6,
+          "fg_pct": 39.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 03, 2025",
+          "matchup": "CHA vs. GSW",
+          "result": "L",
+          "minutes": 34,
+          "points": 25,
+          "rebounds": 9,
+          "assists": 7,
+          "fg_pct": 38.1,
+          "fg3_pct": 44.4
+        }
+      ]
+    },
+    "Stephen Curry": {
+      "id": 201939,
+      "full_name": "Stephen Curry",
+      "info": {
+        "is_active": true,
+        "team": "Warriors",
+        "team_abbreviation": "GSW",
+        "position": "Guard",
+        "jersey": "30"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "GSW",
+        "games_played": 70,
+        "stats_per_game": {
+          "points": 24.5,
+          "rebounds": 4.4,
+          "assists": 6.0,
+          "steals": 1.1,
+          "blocks": 0.4,
+          "fg_pct": 44.8,
+          "fg3_pct": 39.7,
+          "ft_pct": 93.3
+        },
+        "stats_total": {
+          "points": 1718,
+          "rebounds": 310,
+          "assists": 421
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "GSW vs. LAC",
+          "result": "L",
+          "minutes": 38,
+          "points": 36,
+          "rebounds": 3,
+          "assists": 6,
+          "fg_pct": 50.0,
+          "fg3_pct": 58.3
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "GSW @ POR",
+          "result": "W",
+          "minutes": 27,
+          "points": 14,
+          "rebounds": 5,
+          "assists": 5,
+          "fg_pct": 42.9,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "GSW vs. SAS",
+          "result": "L",
+          "minutes": 37,
+          "points": 30,
+          "rebounds": 8,
+          "assists": 3,
+          "fg_pct": 50.0,
+          "fg3_pct": 35.7
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "GSW @ PHX",
+          "result": "W",
+          "minutes": 26,
+          "points": 25,
+          "rebounds": 9,
+          "assists": 6,
+          "fg_pct": 52.9,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "GSW vs. HOU",
+          "result": "L",
+          "minutes": 33,
+          "points": 3,
+          "rebounds": 2,
+          "assists": 8,
+          "fg_pct": 10.0,
+          "fg3_pct": 12.5
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "GSW vs. DEN",
+          "result": "W",
+          "minutes": 32,
+          "points": 36,
+          "rebounds": 2,
+          "assists": 5,
+          "fg_pct": 54.2,
+          "fg3_pct": 46.7
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "GSW @ LAL",
+          "result": "W",
+          "minutes": 34,
+          "points": 37,
+          "rebounds": 3,
+          "assists": 6,
+          "fg_pct": 47.6,
+          "fg3_pct": 36.4
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "GSW @ MEM",
+          "result": "W",
+          "minutes": 37,
+          "points": 52,
+          "rebounds": 10,
+          "assists": 8,
+          "fg_pct": 51.6,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Mar 30, 2025",
+          "matchup": "GSW @ SAS",
+          "result": "W",
+          "minutes": 26,
+          "points": 13,
+          "rebounds": 3,
+          "assists": 6,
+          "fg_pct": 40.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "GSW @ NOP",
+          "result": "W",
+          "minutes": 34,
+          "points": 23,
+          "rebounds": 4,
+          "assists": 6,
+          "fg_pct": 33.3,
+          "fg3_pct": 31.3
+        }
+      ]
+    },
+    "Drew Peterson": {
+      "id": 1641809,
+      "full_name": "Drew Peterson",
+      "info": {
+        "is_active": true,
+        "team": "",
+        "team_abbreviation": "",
+        "position": "Forward",
+        "jersey": ""
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 25,
+        "stats_per_game": {
+          "points": 2.2,
+          "rebounds": 1.6,
+          "assists": 0.5,
+          "steals": 0.2,
+          "blocks": 0.1,
+          "fg_pct": 41.5,
+          "fg3_pct": 39.4,
+          "ft_pct": 77.8
+        },
+        "stats_total": {
+          "points": 54,
+          "rebounds": 40,
+          "assists": 13
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 12,
+          "points": 4,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 25.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 2,
+          "points": 3,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 13,
+          "points": 3,
+          "rebounds": 4,
+          "assists": 0,
+          "fg_pct": 25.0,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 2,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 5,
+          "points": 3,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 1,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 2,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 06, 2025",
+          "matchup": "BOS vs. PHI",
+          "result": "W",
+          "minutes": 16,
+          "points": 0,
+          "rebounds": 3,
+          "assists": 2,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 05, 2025",
+          "matchup": "BOS vs. POR",
+          "result": "W",
+          "minutes": 0,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 28, 2025",
+          "matchup": "BOS vs. CLE",
+          "result": "L",
+          "minutes": 1,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Miles Norris": {
+      "id": 1641936,
+      "full_name": "Miles Norris",
+      "info": {
+        "is_active": false,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Forward",
+        "jersey": "0"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 3,
+        "stats_per_game": {
+          "points": 2.3,
+          "rebounds": 3.0,
+          "assists": 0.0,
+          "steals": 0.7,
+          "blocks": 0.3,
+          "fg_pct": 22.2,
+          "fg3_pct": 28.6,
+          "ft_pct": 50.0
+        },
+        "stats_total": {
+          "points": 7,
+          "rebounds": 9,
+          "assists": 0
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 12,
+          "points": 1,
+          "rebounds": 4,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 19,
+          "points": 6,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 33.3,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 06, 2025",
+          "matchup": "BOS vs. PHI",
+          "result": "W",
+          "minutes": 4,
+          "points": 0,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Donovan Mitchell": {
+      "id": 1628378,
+      "full_name": "Donovan Mitchell",
+      "info": {
+        "is_active": true,
+        "team": "Cavaliers",
+        "team_abbreviation": "CLE",
+        "position": "Guard",
+        "jersey": "45"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "CLE",
+        "games_played": 71,
+        "stats_per_game": {
+          "points": 24.0,
+          "rebounds": 4.5,
+          "assists": 5.0,
+          "steals": 1.3,
+          "blocks": 0.2,
+          "fg_pct": 44.3,
+          "fg3_pct": 36.8,
+          "ft_pct": 82.3
+        },
+        "stats_total": {
+          "points": 1701,
+          "rebounds": 322,
+          "assists": 354
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "CLE vs. SAC",
+          "result": "L",
+          "minutes": 33,
+          "points": 19,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 43.8,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "CLE @ SAS",
+          "result": "W",
+          "minutes": 34,
+          "points": 26,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 44.4,
+          "fg3_pct": 54.5
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "CLE vs. NYK",
+          "result": "W",
+          "minutes": 30,
+          "points": 27,
+          "rebounds": 6,
+          "assists": 5,
+          "fg_pct": 55.6,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "Mar 30, 2025",
+          "matchup": "CLE vs. LAC",
+          "result": "W",
+          "minutes": 37,
+          "points": 24,
+          "rebounds": 12,
+          "assists": 7,
+          "fg_pct": 47.4,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "CLE @ DET",
+          "result": "L",
+          "minutes": 36,
+          "points": 38,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 50.0,
+          "fg3_pct": 37.5
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "CLE vs. SAS",
+          "result": "W",
+          "minutes": 35,
+          "points": 25,
+          "rebounds": 8,
+          "assists": 14,
+          "fg_pct": 44.4,
+          "fg3_pct": 44.4
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "CLE @ UTA",
+          "result": "W",
+          "minutes": 21,
+          "points": 16,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 38.5,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "CLE @ PHX",
+          "result": "L",
+          "minutes": 31,
+          "points": 7,
+          "rebounds": 4,
+          "assists": 3,
+          "fg_pct": 11.1,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 19, 2025",
+          "matchup": "CLE @ SAC",
+          "result": "L",
+          "minutes": 33,
+          "points": 26,
+          "rebounds": 5,
+          "assists": 4,
+          "fg_pct": 47.1,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "CLE @ LAC",
+          "result": "L",
+          "minutes": 34,
+          "points": 18,
+          "rebounds": 4,
+          "assists": 11,
+          "fg_pct": 27.8,
+          "fg3_pct": 22.2
+        }
+      ]
+    },
+    "Jrue Holiday": {
+      "id": 201950,
+      "full_name": "Jrue Holiday",
+      "info": {
+        "is_active": true,
+        "team": "Trail Blazers",
+        "team_abbreviation": "POR",
+        "position": "Guard",
+        "jersey": "5"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 62,
+        "stats_per_game": {
+          "points": 11.1,
+          "rebounds": 4.3,
+          "assists": 3.9,
+          "steals": 1.1,
+          "blocks": 0.4,
+          "fg_pct": 44.3,
+          "fg3_pct": 35.3,
+          "ft_pct": 90.9
+        },
+        "stats_total": {
+          "points": 686,
+          "rebounds": 265,
+          "assists": 239
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 26,
+          "points": 2,
+          "rebounds": 2,
+          "assists": 4,
+          "fg_pct": 16.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 37,
+          "points": 16,
+          "rebounds": 4,
+          "assists": 3,
+          "fg_pct": 55.6,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 30,
+          "points": 13,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 38.5,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 28,
+          "points": 4,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 31,
+          "points": 18,
+          "rebounds": 7,
+          "assists": 7,
+          "fg_pct": 50.0,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 35,
+          "points": 21,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 66.7,
+          "fg3_pct": 71.4
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 30,
+          "points": 16,
+          "rebounds": 2,
+          "assists": 3,
+          "fg_pct": 60.0,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 31,
+          "points": 5,
+          "rebounds": 1,
+          "assists": 3,
+          "fg_pct": 18.2,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 23,
+          "points": 8,
+          "rebounds": 2,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "BOS vs. BKN",
+          "result": "W",
+          "minutes": 38,
+          "points": 12,
+          "rebounds": 6,
+          "assists": 8,
+          "fg_pct": 35.7,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Nikola Jokić": {
+      "id": 203999,
+      "full_name": "Nikola Jokić",
+      "info": {
+        "is_active": true,
+        "team": "Nuggets",
+        "team_abbreviation": "DEN",
+        "position": "Center",
+        "jersey": "15"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "DEN",
+        "games_played": 70,
+        "stats_per_game": {
+          "points": 29.6,
+          "rebounds": 12.7,
+          "assists": 10.2,
+          "steals": 1.8,
+          "blocks": 0.6,
+          "fg_pct": 57.6,
+          "fg3_pct": 41.7,
+          "ft_pct": 80.0
+        },
+        "stats_total": {
+          "points": 2071,
+          "rebounds": 892,
+          "assists": 716
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "DEN @ HOU",
+          "result": "W",
+          "minutes": 31,
+          "points": 18,
+          "rebounds": 7,
+          "assists": 7,
+          "fg_pct": 70.0,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "DEN vs. MEM",
+          "result": "W",
+          "minutes": 41,
+          "points": 26,
+          "rebounds": 16,
+          "assists": 13,
+          "fg_pct": 57.9,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "DEN @ SAC",
+          "result": "W",
+          "minutes": 38,
+          "points": 20,
+          "rebounds": 12,
+          "assists": 11,
+          "fg_pct": 41.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "DEN vs. IND",
+          "result": "L",
+          "minutes": 39,
+          "points": 41,
+          "rebounds": 15,
+          "assists": 13,
+          "fg_pct": 54.5,
+          "fg3_pct": 27.3
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "DEN @ GSW",
+          "result": "L",
+          "minutes": 37,
+          "points": 33,
+          "rebounds": 12,
+          "assists": 9,
+          "fg_pct": 76.5,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "DEN vs. MIN",
+          "result": "L",
+          "minutes": 53,
+          "points": 61,
+          "rebounds": 10,
+          "assists": 10,
+          "fg_pct": 62.1,
+          "fg3_pct": 54.5
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "DEN vs. UTA",
+          "result": "W",
+          "minutes": 32,
+          "points": 27,
+          "rebounds": 14,
+          "assists": 6,
+          "fg_pct": 44.4,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "DEN vs. MIL",
+          "result": "W",
+          "minutes": 38,
+          "points": 39,
+          "rebounds": 10,
+          "assists": 10,
+          "fg_pct": 64.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 15, 2025",
+          "matchup": "DEN vs. WAS",
+          "result": "L",
+          "minutes": 39,
+          "points": 40,
+          "rebounds": 13,
+          "assists": 9,
+          "fg_pct": 53.3,
+          "fg3_pct": 12.5
+        },
+        {
+          "date": "Mar 14, 2025",
+          "matchup": "DEN vs. LAL",
+          "result": "W",
+          "minutes": 38,
+          "points": 28,
+          "rebounds": 7,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Cam Thomas": {
+      "id": 1630560,
+      "full_name": "Cam Thomas",
+      "info": {
+        "is_active": true,
+        "team": "",
+        "team_abbreviation": "",
+        "position": "Guard",
+        "jersey": ""
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BKN",
+        "games_played": 25,
+        "stats_per_game": {
+          "points": 24.0,
+          "rebounds": 3.3,
+          "assists": 3.8,
+          "steals": 0.6,
+          "blocks": 0.1,
+          "fg_pct": 43.8,
+          "fg3_pct": 34.9,
+          "ft_pct": 88.1
+        },
+        "stats_total": {
+          "points": 599,
+          "rebounds": 83,
+          "assists": 94
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 13, 2025",
+          "matchup": "BKN @ CHI",
+          "result": "L",
+          "minutes": 32,
+          "points": 24,
+          "rebounds": 6,
+          "assists": 10,
+          "fg_pct": 34.8,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 11, 2025",
+          "matchup": "BKN @ CLE",
+          "result": "L",
+          "minutes": 32,
+          "points": 27,
+          "rebounds": 1,
+          "assists": 3,
+          "fg_pct": 45.5,
+          "fg3_pct": 36.4
+        },
+        {
+          "date": "Mar 08, 2025",
+          "matchup": "BKN @ CHA",
+          "result": "L",
+          "minutes": 29,
+          "points": 16,
+          "rebounds": 2,
+          "assists": 3,
+          "fg_pct": 38.9,
+          "fg3_pct": 12.5
+        },
+        {
+          "date": "Mar 06, 2025",
+          "matchup": "BKN vs. GSW",
+          "result": "L",
+          "minutes": 27,
+          "points": 23,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 44.4,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 04, 2025",
+          "matchup": "BKN @ SAS",
+          "result": "L",
+          "minutes": 26,
+          "points": 24,
+          "rebounds": 1,
+          "assists": 6,
+          "fg_pct": 42.1,
+          "fg3_pct": 30.8
+        },
+        {
+          "date": "Feb 28, 2025",
+          "matchup": "BKN vs. POR",
+          "result": "L",
+          "minutes": 21,
+          "points": 16,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 41.2,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Jan 02, 2025",
+          "matchup": "BKN @ MIL",
+          "result": "W",
+          "minutes": 22,
+          "points": 24,
+          "rebounds": 7,
+          "assists": 2,
+          "fg_pct": 36.4,
+          "fg3_pct": 18.2
+        },
+        {
+          "date": "Dec 29, 2024",
+          "matchup": "BKN @ ORL",
+          "result": "L",
+          "minutes": 25,
+          "points": 25,
+          "rebounds": 6,
+          "assists": 5,
+          "fg_pct": 33.3,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "Nov 25, 2024",
+          "matchup": "BKN @ GSW",
+          "result": "W",
+          "minutes": 23,
+          "points": 23,
+          "rebounds": 3,
+          "assists": 1,
+          "fg_pct": 54.5,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "Nov 24, 2024",
+          "matchup": "BKN @ SAC",
+          "result": "W",
+          "minutes": 36,
+          "points": 34,
+          "rebounds": 2,
+          "assists": 6,
+          "fg_pct": 50.0,
+          "fg3_pct": 40.0
+        }
+      ]
+    },
+    "Kristaps Porziņģis": {
+      "id": 204001,
+      "full_name": "Kristaps Porziņģis",
+      "info": {
+        "is_active": true,
+        "team": "Warriors",
+        "team_abbreviation": "GSW",
+        "position": "Forward-Center",
+        "jersey": "7"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 42,
+        "stats_per_game": {
+          "points": 19.5,
+          "rebounds": 6.8,
+          "assists": 2.1,
+          "steals": 0.7,
+          "blocks": 1.5,
+          "fg_pct": 48.3,
+          "fg3_pct": 41.2,
+          "ft_pct": 80.9
+        },
+        "stats_total": {
+          "points": 818,
+          "rebounds": 284,
+          "assists": 87
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 18,
+          "points": 11,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 18.2,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 39,
+          "points": 34,
+          "rebounds": 4,
+          "assists": 3,
+          "fg_pct": 57.9,
+          "fg3_pct": 61.5
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 23,
+          "points": 15,
+          "rebounds": 4,
+          "assists": 1,
+          "fg_pct": 41.7,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 34,
+          "points": 19,
+          "rebounds": 5,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 25,
+          "points": 11,
+          "rebounds": 8,
+          "assists": 1,
+          "fg_pct": 36.4,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 29,
+          "points": 30,
+          "rebounds": 8,
+          "assists": 2,
+          "fg_pct": 66.7,
+          "fg3_pct": 80.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 31,
+          "points": 16,
+          "rebounds": 8,
+          "assists": 2,
+          "fg_pct": 38.5,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 25,
+          "points": 27,
+          "rebounds": 10,
+          "assists": 6,
+          "fg_pct": 60.0,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "BOS vs. BKN",
+          "result": "W",
+          "minutes": 29,
+          "points": 25,
+          "rebounds": 13,
+          "assists": 3,
+          "fg_pct": 69.2,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 15, 2025",
+          "matchup": "BOS @ BKN",
+          "result": "W",
+          "minutes": 32,
+          "points": 24,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 56.3,
+          "fg3_pct": 14.3
+        }
+      ]
+    },
+    "Tyrese Maxey": {
+      "id": 1630178,
+      "full_name": "Tyrese Maxey",
+      "info": {
+        "is_active": true,
+        "team": "76ers",
+        "team_abbreviation": "PHI",
+        "position": "Guard",
+        "jersey": "0"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "PHI",
+        "games_played": 52,
+        "stats_per_game": {
+          "points": 26.3,
+          "rebounds": 3.3,
+          "assists": 6.1,
+          "steals": 1.8,
+          "blocks": 0.4,
+          "fg_pct": 43.7,
+          "fg3_pct": 33.7,
+          "ft_pct": 87.9
+        },
+        "stats_total": {
+          "points": 1369,
+          "rebounds": 174,
+          "assists": 317
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Mar 03, 2025",
+          "matchup": "PHI vs. POR",
+          "result": "L",
+          "minutes": 23,
+          "points": 5,
+          "rebounds": 0,
+          "assists": 6,
+          "fg_pct": 15.4,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Mar 01, 2025",
+          "matchup": "PHI vs. GSW",
+          "result": "W",
+          "minutes": 40,
+          "points": 5,
+          "rebounds": 3,
+          "assists": 11,
+          "fg_pct": 14.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 26, 2025",
+          "matchup": "PHI @ NYK",
+          "result": "L",
+          "minutes": 44,
+          "points": 30,
+          "rebounds": 4,
+          "assists": 5,
+          "fg_pct": 37.5,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Feb 24, 2025",
+          "matchup": "PHI vs. CHI",
+          "result": "L",
+          "minutes": 29,
+          "points": 13,
+          "rebounds": 0,
+          "assists": 2,
+          "fg_pct": 30.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Feb 22, 2025",
+          "matchup": "PHI vs. BKN",
+          "result": "L",
+          "minutes": 43,
+          "points": 31,
+          "rebounds": 2,
+          "assists": 5,
+          "fg_pct": 43.5,
+          "fg3_pct": 45.5
+        },
+        {
+          "date": "Feb 20, 2025",
+          "matchup": "PHI vs. BOS",
+          "result": "L",
+          "minutes": 34,
+          "points": 16,
+          "rebounds": 5,
+          "assists": 7,
+          "fg_pct": 60.0,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Feb 11, 2025",
+          "matchup": "PHI vs. TOR",
+          "result": "L",
+          "minutes": 34,
+          "points": 5,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 11.1,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Feb 09, 2025",
+          "matchup": "PHI @ MIL",
+          "result": "L",
+          "minutes": 40,
+          "points": 39,
+          "rebounds": 4,
+          "assists": 5,
+          "fg_pct": 69.6,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Feb 07, 2025",
+          "matchup": "PHI @ DET",
+          "result": "L",
+          "minutes": 39,
+          "points": 27,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 45.0,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Feb 05, 2025",
+          "matchup": "PHI vs. MIA",
+          "result": "L",
+          "minutes": 38,
+          "points": 31,
+          "rebounds": 3,
+          "assists": 5,
+          "fg_pct": 39.3,
+          "fg3_pct": 27.3
+        }
+      ]
+    },
+    "Trae Young": {
+      "id": 1629027,
+      "full_name": "Trae Young",
+      "info": {
+        "is_active": true,
+        "team": "Wizards",
+        "team_abbreviation": "WAS",
+        "position": "Guard",
+        "jersey": "3"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "ATL",
+        "games_played": 76,
+        "stats_per_game": {
+          "points": 24.2,
+          "rebounds": 3.1,
+          "assists": 11.6,
+          "steals": 1.2,
+          "blocks": 0.2,
+          "fg_pct": 41.1,
+          "fg3_pct": 34.0,
+          "ft_pct": 87.5
+        },
+        "stats_total": {
+          "points": 1841,
+          "rebounds": 236,
+          "assists": 880
+        }
+      },
+      "recent_games": [
+        {
+          "date": "APR 11, 2025",
+          "matchup": "ATL @ PHI",
+          "result": "W",
+          "minutes": 36,
+          "points": 36,
+          "rebounds": 3,
+          "assists": 11,
+          "fg_pct": 45.5,
+          "fg3_pct": 46.2
+        },
+        {
+          "date": "APR 10, 2025",
+          "matchup": "ATL @ BKN",
+          "result": "W",
+          "minutes": 31,
+          "points": 24,
+          "rebounds": 1,
+          "assists": 12,
+          "fg_pct": 46.7,
+          "fg3_pct": 37.5
+        },
+        {
+          "date": "APR 08, 2025",
+          "matchup": "ATL @ ORL",
+          "result": "L",
+          "minutes": 37,
+          "points": 28,
+          "rebounds": 1,
+          "assists": 10,
+          "fg_pct": 50.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "APR 06, 2025",
+          "matchup": "ATL vs. UTA",
+          "result": "W",
+          "minutes": 37,
+          "points": 23,
+          "rebounds": 5,
+          "assists": 15,
+          "fg_pct": 50.0,
+          "fg3_pct": 44.4
+        },
+        {
+          "date": "APR 05, 2025",
+          "matchup": "ATL vs. NYK",
+          "result": "L",
+          "minutes": 32,
+          "points": 16,
+          "rebounds": 1,
+          "assists": 9,
+          "fg_pct": 33.3,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "APR 02, 2025",
+          "matchup": "ATL @ DAL",
+          "result": "L",
+          "minutes": 40,
+          "points": 25,
+          "rebounds": 4,
+          "assists": 12,
+          "fg_pct": 40.0,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "APR 01, 2025",
+          "matchup": "ATL vs. POR",
+          "result": "L",
+          "minutes": 36,
+          "points": 29,
+          "rebounds": 4,
+          "assists": 15,
+          "fg_pct": 35.0,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "MAR 30, 2025",
+          "matchup": "ATL @ MIL",
+          "result": "W",
+          "minutes": 37,
+          "points": 19,
+          "rebounds": 3,
+          "assists": 19,
+          "fg_pct": 25.0,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "MAR 27, 2025",
+          "matchup": "ATL @ MIA",
+          "result": "L",
+          "minutes": 36,
+          "points": 29,
+          "rebounds": 2,
+          "assists": 12,
+          "fg_pct": 47.6,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "MAR 25, 2025",
+          "matchup": "ATL @ HOU",
+          "result": "L",
+          "minutes": 39,
+          "points": 19,
+          "rebounds": 2,
+          "assists": 12,
+          "fg_pct": 41.2,
+          "fg3_pct": 42.9
+        }
+      ]
+    },
+    "Luka Dončić": {
+      "id": 1629029,
+      "full_name": "Luka Dončić",
+      "info": {
+        "is_active": true,
+        "team": "Lakers",
+        "team_abbreviation": "LAL",
+        "position": "Forward-Guard",
+        "jersey": "77"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "TOT",
+        "games_played": 50,
+        "stats_per_game": {
+          "points": 28.2,
+          "rebounds": 8.2,
+          "assists": 7.7,
+          "steals": 1.8,
+          "blocks": 0.4,
+          "fg_pct": 45.0,
+          "fg3_pct": 36.8,
+          "ft_pct": 78.2
+        },
+        "stats_total": {
+          "points": 1408,
+          "rebounds": 409,
+          "assists": 383
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "LAL vs. HOU",
+          "result": "W",
+          "minutes": 31,
+          "points": 39,
+          "rebounds": 8,
+          "assists": 7,
+          "fg_pct": 68.4,
+          "fg3_pct": 55.6
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "LAL @ DAL",
+          "result": "W",
+          "minutes": 38,
+          "points": 45,
+          "rebounds": 8,
+          "assists": 6,
+          "fg_pct": 57.1,
+          "fg3_pct": 70.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "LAL @ OKC",
+          "result": "L",
+          "minutes": 31,
+          "points": 23,
+          "rebounds": 3,
+          "assists": 5,
+          "fg_pct": 46.7,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "LAL @ OKC",
+          "result": "W",
+          "minutes": 37,
+          "points": 30,
+          "rebounds": 7,
+          "assists": 6,
+          "fg_pct": 55.0,
+          "fg3_pct": 45.5
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "LAL vs. NOP",
+          "result": "W",
+          "minutes": 36,
+          "points": 35,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 47.6,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "LAL vs. GSW",
+          "result": "L",
+          "minutes": 38,
+          "points": 19,
+          "rebounds": 8,
+          "assists": 7,
+          "fg_pct": 35.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "LAL vs. HOU",
+          "result": "W",
+          "minutes": 38,
+          "points": 20,
+          "rebounds": 6,
+          "assists": 9,
+          "fg_pct": 37.5,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "LAL @ MEM",
+          "result": "W",
+          "minutes": 38,
+          "points": 29,
+          "rebounds": 8,
+          "assists": 9,
+          "fg_pct": 44.4,
+          "fg3_pct": 22.2
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "LAL @ CHI",
+          "result": "L",
+          "minutes": 38,
+          "points": 25,
+          "rebounds": 10,
+          "assists": 8,
+          "fg_pct": 36.4,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "LAL @ IND",
+          "result": "W",
+          "minutes": 38,
+          "points": 34,
+          "rebounds": 7,
+          "assists": 7,
+          "fg_pct": 52.4,
+          "fg3_pct": 60.0
+        }
+      ]
+    },
+    "Victor Wembanyama": {
+      "id": 1641705,
+      "full_name": "Victor Wembanyama",
+      "info": {
+        "is_active": true,
+        "team": "Spurs",
+        "team_abbreviation": "SAS",
+        "position": "Forward-Center",
+        "jersey": "1"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "SAS",
+        "games_played": 46,
+        "stats_per_game": {
+          "points": 24.3,
+          "rebounds": 11.0,
+          "assists": 3.7,
+          "steals": 1.1,
+          "blocks": 3.8,
+          "fg_pct": 47.6,
+          "fg3_pct": 35.2,
+          "ft_pct": 83.6
+        },
+        "stats_total": {
+          "points": 1116,
+          "rebounds": 506,
+          "assists": 168
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Feb 12, 2025",
+          "matchup": "SAS @ BOS",
+          "result": "L",
+          "minutes": 36,
+          "points": 17,
+          "rebounds": 13,
+          "assists": 4,
+          "fg_pct": 43.8,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Feb 10, 2025",
+          "matchup": "SAS @ WAS",
+          "result": "W",
+          "minutes": 38,
+          "points": 31,
+          "rebounds": 15,
+          "assists": 4,
+          "fg_pct": 57.1,
+          "fg3_pct": 62.5
+        },
+        {
+          "date": "Feb 08, 2025",
+          "matchup": "SAS @ ORL",
+          "result": "L",
+          "minutes": 31,
+          "points": 18,
+          "rebounds": 9,
+          "assists": 4,
+          "fg_pct": 45.5,
+          "fg3_pct": 16.7
+        },
+        {
+          "date": "Feb 07, 2025",
+          "matchup": "SAS @ CHA",
+          "result": "L",
+          "minutes": 34,
+          "points": 16,
+          "rebounds": 11,
+          "assists": 3,
+          "fg_pct": 35.0,
+          "fg3_pct": 11.1
+        },
+        {
+          "date": "Feb 05, 2025",
+          "matchup": "SAS @ ATL",
+          "result": "W",
+          "minutes": 31,
+          "points": 24,
+          "rebounds": 12,
+          "assists": 2,
+          "fg_pct": 53.3,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Feb 03, 2025",
+          "matchup": "SAS @ MEM",
+          "result": "L",
+          "minutes": 31,
+          "points": 27,
+          "rebounds": 10,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Jan 31, 2025",
+          "matchup": "SAS vs. MIL",
+          "result": "W",
+          "minutes": 31,
+          "points": 30,
+          "rebounds": 14,
+          "assists": 1,
+          "fg_pct": 45.0,
+          "fg3_pct": 45.5
+        },
+        {
+          "date": "Jan 29, 2025",
+          "matchup": "SAS vs. LAC",
+          "result": "L",
+          "minutes": 35,
+          "points": 23,
+          "rebounds": 12,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Jan 25, 2025",
+          "matchup": "SAS vs. IND",
+          "result": "L",
+          "minutes": 36,
+          "points": 20,
+          "rebounds": 12,
+          "assists": 2,
+          "fg_pct": 43.8,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Jan 23, 2025",
+          "matchup": "SAS @ IND",
+          "result": "W",
+          "minutes": 32,
+          "points": 30,
+          "rebounds": 11,
+          "assists": 6,
+          "fg_pct": 61.9,
+          "fg3_pct": 36.4
+        }
+      ]
+    },
+    "Neemias Queta": {
+      "id": 1629674,
+      "full_name": "Neemias Queta",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Center",
+        "jersey": "88"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 62,
+        "stats_per_game": {
+          "points": 5.0,
+          "rebounds": 3.8,
+          "assists": 0.7,
+          "steals": 0.3,
+          "blocks": 0.7,
+          "fg_pct": 65.0,
+          "fg3_pct": 0.0,
+          "ft_pct": 75.4
+        },
+        "stats_total": {
+          "points": 310,
+          "rebounds": 236,
+          "assists": 45
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 26,
+          "points": 2,
+          "rebounds": 6,
+          "assists": 4,
+          "fg_pct": 20.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 12,
+          "points": 7,
+          "rebounds": 1,
+          "assists": 1,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 25,
+          "points": 11,
+          "rebounds": 7,
+          "assists": 2,
+          "fg_pct": 66.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 7,
+          "points": 6,
+          "rebounds": 0,
+          "assists": 1,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 2,
+          "points": 2,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 19,
+          "points": 7,
+          "rebounds": 7,
+          "assists": 2,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 6,
+          "points": 4,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 1,
+          "points": 2,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "BOS @ UTA",
+          "result": "W",
+          "minutes": 2,
+          "points": 0,
+          "rebounds": 1,
+          "assists": 1,
+          "fg_pct": 0.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 18, 2025",
+          "matchup": "BOS vs. BKN",
+          "result": "W",
+          "minutes": 9,
+          "points": 4,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 100.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Sam Hauser": {
+      "id": 1630573,
+      "full_name": "Sam Hauser",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Forward",
+        "jersey": "30"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 71,
+        "stats_per_game": {
+          "points": 8.5,
+          "rebounds": 3.2,
+          "assists": 0.9,
+          "steals": 0.6,
+          "blocks": 0.2,
+          "fg_pct": 45.1,
+          "fg3_pct": 41.6,
+          "ft_pct": 100.0
+        },
+        "stats_total": {
+          "points": 605,
+          "rebounds": 224,
+          "assists": 64
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 29,
+          "points": 15,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 44.4,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 22,
+          "points": 20,
+          "rebounds": 5,
+          "assists": 1,
+          "fg_pct": 58.3,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 25,
+          "points": 10,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 36.4,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 28,
+          "points": 7,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 50.0,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 22,
+          "points": 18,
+          "rebounds": 8,
+          "assists": 0,
+          "fg_pct": 58.3,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 21,
+          "points": 5,
+          "rebounds": 5,
+          "assists": 1,
+          "fg_pct": 33.3,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 26,
+          "points": 6,
+          "rebounds": 3,
+          "assists": 0,
+          "fg_pct": 40.0,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 25,
+          "points": 8,
+          "rebounds": 3,
+          "assists": 3,
+          "fg_pct": 33.3,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 24,
+          "points": 11,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 30.8,
+          "fg3_pct": 27.3
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 21,
+          "points": 11,
+          "rebounds": 3,
+          "assists": 3,
+          "fg_pct": 80.0,
+          "fg3_pct": 75.0
+        }
+      ]
+    },
+    "Jaylen Brown": {
+      "id": 1627759,
+      "full_name": "Jaylen Brown",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Guard-Forward",
+        "jersey": "7"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 63,
+        "stats_per_game": {
+          "points": 22.2,
+          "rebounds": 5.8,
+          "assists": 4.5,
+          "steals": 1.2,
+          "blocks": 0.3,
+          "fg_pct": 46.3,
+          "fg3_pct": 32.4,
+          "ft_pct": 76.4
+        },
+        "stats_total": {
+          "points": 1398,
+          "rebounds": 368,
+          "assists": 286
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 22,
+          "points": 6,
+          "rebounds": 5,
+          "assists": 1,
+          "fg_pct": 25.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 22,
+          "points": 15,
+          "rebounds": 2,
+          "assists": 5,
+          "fg_pct": 55.6,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 28,
+          "points": 31,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 62.5,
+          "fg3_pct": 75.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 29,
+          "points": 24,
+          "rebounds": 9,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 30,
+          "points": 14,
+          "rebounds": 2,
+          "assists": 4,
+          "fg_pct": 66.7,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 28,
+          "points": 24,
+          "rebounds": 3,
+          "assists": 5,
+          "fg_pct": 46.7,
+          "fg3_pct": 44.4
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 26,
+          "points": 9,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 50.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 15, 2025",
+          "matchup": "BOS @ BKN",
+          "result": "W",
+          "minutes": 24,
+          "points": 8,
+          "rebounds": 6,
+          "assists": 3,
+          "fg_pct": 37.5,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 12, 2025",
+          "matchup": "BOS vs. OKC",
+          "result": "L",
+          "minutes": 38,
+          "points": 10,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 10, 2025",
+          "matchup": "BOS vs. UTA",
+          "result": "W",
+          "minutes": 38,
+          "points": 26,
+          "rebounds": 8,
+          "assists": 7,
+          "fg_pct": 40.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "LeBron James": {
+      "id": 2544,
+      "full_name": "LeBron James",
+      "info": {
+        "is_active": true,
+        "team": "Lakers",
+        "team_abbreviation": "LAL",
+        "position": "Forward",
+        "jersey": "23"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "LAL",
+        "games_played": 70,
+        "stats_per_game": {
+          "points": 24.4,
+          "rebounds": 7.8,
+          "assists": 8.2,
+          "steals": 1.0,
+          "blocks": 0.6,
+          "fg_pct": 51.3,
+          "fg3_pct": 37.6,
+          "ft_pct": 78.2
+        },
+        "stats_total": {
+          "points": 1710,
+          "rebounds": 546,
+          "assists": 575
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "LAL vs. HOU",
+          "result": "W",
+          "minutes": 22,
+          "points": 14,
+          "rebounds": 4,
+          "assists": 8,
+          "fg_pct": 54.5,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "LAL @ DAL",
+          "result": "W",
+          "minutes": 36,
+          "points": 27,
+          "rebounds": 7,
+          "assists": 3,
+          "fg_pct": 55.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "LAL @ OKC",
+          "result": "L",
+          "minutes": 35,
+          "points": 28,
+          "rebounds": 7,
+          "assists": 3,
+          "fg_pct": 42.1,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "LAL @ OKC",
+          "result": "W",
+          "minutes": 34,
+          "points": 19,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 56.3,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "LAL vs. NOP",
+          "result": "W",
+          "minutes": 33,
+          "points": 27,
+          "rebounds": 0,
+          "assists": 8,
+          "fg_pct": 52.9,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "LAL vs. GSW",
+          "result": "L",
+          "minutes": 40,
+          "points": 33,
+          "rebounds": 5,
+          "assists": 9,
+          "fg_pct": 66.7,
+          "fg3_pct": 62.5
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "LAL vs. HOU",
+          "result": "W",
+          "minutes": 38,
+          "points": 16,
+          "rebounds": 8,
+          "assists": 4,
+          "fg_pct": 41.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "LAL @ MEM",
+          "result": "W",
+          "minutes": 37,
+          "points": 25,
+          "rebounds": 6,
+          "assists": 8,
+          "fg_pct": 47.6,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "LAL @ CHI",
+          "result": "L",
+          "minutes": 39,
+          "points": 17,
+          "rebounds": 5,
+          "assists": 12,
+          "fg_pct": 40.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "LAL @ IND",
+          "result": "W",
+          "minutes": 38,
+          "points": 13,
+          "rebounds": 13,
+          "assists": 7,
+          "fg_pct": 33.3,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Derrick White": {
+      "id": 1628401,
+      "full_name": "Derrick White",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Guard",
+        "jersey": "9"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 76,
+        "stats_per_game": {
+          "points": 16.4,
+          "rebounds": 4.5,
+          "assists": 4.8,
+          "steals": 0.9,
+          "blocks": 1.1,
+          "fg_pct": 44.2,
+          "fg3_pct": 38.4,
+          "ft_pct": 83.9
+        },
+        "stats_total": {
+          "points": 1248,
+          "rebounds": 341,
+          "assists": 361
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 34,
+          "points": 19,
+          "rebounds": 3,
+          "assists": 7,
+          "fg_pct": 66.7,
+          "fg3_pct": 42.9
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 43,
+          "points": 14,
+          "rebounds": 8,
+          "assists": 9,
+          "fg_pct": 35.7,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 26,
+          "points": 19,
+          "rebounds": 1,
+          "assists": 4,
+          "fg_pct": 58.3,
+          "fg3_pct": 55.6
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 33,
+          "points": 12,
+          "rebounds": 9,
+          "assists": 7,
+          "fg_pct": 44.4,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 31,
+          "points": 16,
+          "rebounds": 4,
+          "assists": 6,
+          "fg_pct": 45.5,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 36,
+          "points": 14,
+          "rebounds": 8,
+          "assists": 10,
+          "fg_pct": 30.8,
+          "fg3_pct": 27.3
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "minutes": 40,
+          "points": 13,
+          "rebounds": 8,
+          "assists": 6,
+          "fg_pct": 30.8,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 31,
+          "points": 16,
+          "rebounds": 4,
+          "assists": 7,
+          "fg_pct": 45.5,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 33,
+          "points": 12,
+          "rebounds": 5,
+          "assists": 8,
+          "fg_pct": 44.4,
+          "fg3_pct": 37.5
+        },
+        {
+          "date": "Mar 23, 2025",
+          "matchup": "BOS @ POR",
+          "result": "W",
+          "minutes": 37,
+          "points": 17,
+          "rebounds": 3,
+          "assists": 8,
+          "fg_pct": 50.0,
+          "fg3_pct": 40.0
+        }
+      ]
+    },
+    "Giannis Antetokounmpo": {
+      "id": 203507,
+      "full_name": "Giannis Antetokounmpo",
+      "info": {
+        "is_active": true,
+        "team": "Bucks",
+        "team_abbreviation": "MIL",
+        "position": "Forward",
+        "jersey": "34"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "MIL",
+        "games_played": 67,
+        "stats_per_game": {
+          "points": 30.4,
+          "rebounds": 11.9,
+          "assists": 6.5,
+          "steals": 0.9,
+          "blocks": 1.2,
+          "fg_pct": 60.1,
+          "fg3_pct": 22.2,
+          "ft_pct": 61.7
+        },
+        "stats_total": {
+          "points": 2036,
+          "rebounds": 798,
+          "assists": 433
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "MIL @ DET",
+          "result": "W",
+          "minutes": 38,
+          "points": 32,
+          "rebounds": 11,
+          "assists": 15,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 10, 2025",
+          "matchup": "MIL vs. NOP",
+          "result": "W",
+          "minutes": 26,
+          "points": 28,
+          "rebounds": 11,
+          "assists": 5,
+          "fg_pct": 64.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "MIL vs. MIN",
+          "result": "W",
+          "minutes": 38,
+          "points": 23,
+          "rebounds": 13,
+          "assists": 10,
+          "fg_pct": 60.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Apr 05, 2025",
+          "matchup": "MIL @ MIA",
+          "result": "W",
+          "minutes": 43,
+          "points": 36,
+          "rebounds": 15,
+          "assists": 10,
+          "fg_pct": 61.9,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "MIL @ PHI",
+          "result": "W",
+          "minutes": 39,
+          "points": 35,
+          "rebounds": 17,
+          "assists": 20,
+          "fg_pct": 63.2,
+          "fg3_pct": 100.0
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "MIL vs. PHX",
+          "result": "W",
+          "minutes": 36,
+          "points": 37,
+          "rebounds": 5,
+          "assists": 11,
+          "fg_pct": 66.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 30, 2025",
+          "matchup": "MIL vs. ATL",
+          "result": "L",
+          "minutes": 30,
+          "points": 31,
+          "rebounds": 9,
+          "assists": 5,
+          "fg_pct": 61.1,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 28, 2025",
+          "matchup": "MIL vs. NYK",
+          "result": "L",
+          "minutes": 35,
+          "points": 30,
+          "rebounds": 9,
+          "assists": 7,
+          "fg_pct": 64.7,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "MIL @ PHX",
+          "result": "L",
+          "minutes": 37,
+          "points": 31,
+          "rebounds": 10,
+          "assists": 5,
+          "fg_pct": 63.2,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "Mar 22, 2025",
+          "matchup": "MIL @ SAC",
+          "result": "W",
+          "minutes": 35,
+          "points": 32,
+          "rebounds": 17,
+          "assists": 3,
+          "fg_pct": 60.0,
+          "fg3_pct": 0.0
+        }
+      ]
+    },
+    "Paolo Banchero": {
+      "id": 1631094,
+      "full_name": "Paolo Banchero",
+      "info": {
+        "is_active": true,
+        "team": "Magic",
+        "team_abbreviation": "ORL",
+        "position": "Forward",
+        "jersey": "5"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "ORL",
+        "games_played": 46,
+        "stats_per_game": {
+          "points": 25.9,
+          "rebounds": 7.5,
+          "assists": 4.8,
+          "steals": 0.8,
+          "blocks": 0.6,
+          "fg_pct": 45.2,
+          "fg3_pct": 32.0,
+          "ft_pct": 72.7
+        },
+        "stats_total": {
+          "points": 1191,
+          "rebounds": 345,
+          "assists": 219
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "ORL vs. BOS",
+          "result": "W",
+          "minutes": 29,
+          "points": 15,
+          "rebounds": 4,
+          "assists": 6,
+          "fg_pct": 35.3,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "ORL vs. ATL",
+          "result": "W",
+          "minutes": 37,
+          "points": 33,
+          "rebounds": 10,
+          "assists": 4,
+          "fg_pct": 50.0,
+          "fg3_pct": 40.0
+        },
+        {
+          "date": "Apr 03, 2025",
+          "matchup": "ORL @ WAS",
+          "result": "W",
+          "minutes": 39,
+          "points": 33,
+          "rebounds": 18,
+          "assists": 8,
+          "fg_pct": 45.8,
+          "fg3_pct": 60.0
+        },
+        {
+          "date": "Apr 01, 2025",
+          "matchup": "ORL @ SAS",
+          "result": "W",
+          "minutes": 33,
+          "points": 24,
+          "rebounds": 10,
+          "assists": 4,
+          "fg_pct": 42.9,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "ORL vs. LAC",
+          "result": "L",
+          "minutes": 36,
+          "points": 26,
+          "rebounds": 6,
+          "assists": 4,
+          "fg_pct": 34.8,
+          "fg3_pct": 12.5
+        },
+        {
+          "date": "Mar 29, 2025",
+          "matchup": "ORL vs. SAC",
+          "result": "W",
+          "minutes": 29,
+          "points": 24,
+          "rebounds": 6,
+          "assists": 6,
+          "fg_pct": 47.4,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 27, 2025",
+          "matchup": "ORL vs. DAL",
+          "result": "L",
+          "minutes": 38,
+          "points": 35,
+          "rebounds": 10,
+          "assists": 4,
+          "fg_pct": 61.9,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 25, 2025",
+          "matchup": "ORL @ CHA",
+          "result": "W",
+          "minutes": 36,
+          "points": 32,
+          "rebounds": 7,
+          "assists": 6,
+          "fg_pct": 54.2,
+          "fg3_pct": 25.0
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "ORL vs. LAL",
+          "result": "W",
+          "minutes": 40,
+          "points": 30,
+          "rebounds": 7,
+          "assists": 1,
+          "fg_pct": 52.9,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 21, 2025",
+          "matchup": "ORL @ WAS",
+          "result": "W",
+          "minutes": 31,
+          "points": 30,
+          "rebounds": 8,
+          "assists": 5,
+          "fg_pct": 50.0,
+          "fg3_pct": 60.0
+        }
+      ]
+    },
+    "Zach LaVine": {
+      "id": 203897,
+      "full_name": "Zach LaVine",
+      "info": {
+        "is_active": true,
+        "team": "Kings",
+        "team_abbreviation": "SAC",
+        "position": "Guard",
+        "jersey": "8"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "TOT",
+        "games_played": 74,
+        "stats_per_game": {
+          "points": 23.3,
+          "rebounds": 4.3,
+          "assists": 4.2,
+          "steals": 0.8,
+          "blocks": 0.2,
+          "fg_pct": 51.1,
+          "fg3_pct": 44.6,
+          "ft_pct": 82.5
+        },
+        "stats_total": {
+          "points": 1724,
+          "rebounds": 315,
+          "assists": 310
+        }
+      },
+      "recent_games": [
+        {
+          "date": "APR 13, 2025",
+          "matchup": "SAC vs. PHX",
+          "result": "W",
+          "minutes": 27,
+          "points": 16,
+          "rebounds": 0,
+          "assists": 2,
+          "fg_pct": 54.5,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "APR 11, 2025",
+          "matchup": "SAC vs. LAC",
+          "result": "L",
+          "minutes": 41,
+          "points": 26,
+          "rebounds": 4,
+          "assists": 5,
+          "fg_pct": 39.1,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "APR 09, 2025",
+          "matchup": "SAC vs. DEN",
+          "result": "L",
+          "minutes": 44,
+          "points": 27,
+          "rebounds": 0,
+          "assists": 11,
+          "fg_pct": 50.0,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "APR 07, 2025",
+          "matchup": "SAC @ DET",
+          "result": "W",
+          "minutes": 45,
+          "points": 43,
+          "rebounds": 3,
+          "assists": 4,
+          "fg_pct": 57.1,
+          "fg3_pct": 72.7
+        },
+        {
+          "date": "APR 06, 2025",
+          "matchup": "SAC @ CLE",
+          "result": "W",
+          "minutes": 42,
+          "points": 37,
+          "rebounds": 2,
+          "assists": 1,
+          "fg_pct": 71.4,
+          "fg3_pct": 63.6
+        },
+        {
+          "date": "APR 04, 2025",
+          "matchup": "SAC @ CHA",
+          "result": "W",
+          "minutes": 33,
+          "points": 25,
+          "rebounds": 10,
+          "assists": 3,
+          "fg_pct": 47.4,
+          "fg3_pct": 57.1
+        },
+        {
+          "date": "APR 02, 2025",
+          "matchup": "SAC @ WAS",
+          "result": "L",
+          "minutes": 35,
+          "points": 18,
+          "rebounds": 2,
+          "assists": 2,
+          "fg_pct": 38.5,
+          "fg3_pct": 28.6
+        },
+        {
+          "date": "MAR 31, 2025",
+          "matchup": "SAC @ IND",
+          "result": "L",
+          "minutes": 38,
+          "points": 20,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 46.7,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "MAR 29, 2025",
+          "matchup": "SAC @ ORL",
+          "result": "L",
+          "minutes": 29,
+          "points": 10,
+          "rebounds": 2,
+          "assists": 3,
+          "fg_pct": 37.5,
+          "fg3_pct": 50.0
+        },
+        {
+          "date": "MAR 27, 2025",
+          "matchup": "SAC vs. POR",
+          "result": "W",
+          "minutes": 37,
+          "points": 29,
+          "rebounds": 2,
+          "assists": 0,
+          "fg_pct": 72.2,
+          "fg3_pct": 40.0
+        }
+      ]
+    },
+    "Payton Pritchard": {
+      "id": 1630202,
+      "full_name": "Payton Pritchard",
+      "info": {
+        "is_active": true,
+        "team": "Celtics",
+        "team_abbreviation": "BOS",
+        "position": "Guard",
+        "jersey": "11"
+      },
+      "stats": {
+        "season": "2024-25",
+        "team": "BOS",
+        "games_played": 80,
+        "stats_per_game": {
+          "points": 14.3,
+          "rebounds": 3.8,
+          "assists": 3.5,
+          "steals": 0.9,
+          "blocks": 0.2,
+          "fg_pct": 47.2,
+          "fg3_pct": 40.7,
+          "ft_pct": 84.5
+        },
+        "stats_total": {
+          "points": 1144,
+          "rebounds": 307,
+          "assists": 279
+        }
+      },
+      "recent_games": [
+        {
+          "date": "Apr 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 39,
+          "points": 34,
+          "rebounds": 7,
+          "assists": 7,
+          "fg_pct": 56.0,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Apr 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "minutes": 22,
+          "points": 22,
+          "rebounds": 3,
+          "assists": 3,
+          "fg_pct": 81.8,
+          "fg3_pct": 80.0
+        },
+        {
+          "date": "Apr 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "minutes": 35,
+          "points": 15,
+          "rebounds": 4,
+          "assists": 10,
+          "fg_pct": 41.2,
+          "fg3_pct": 14.3
+        },
+        {
+          "date": "Apr 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "minutes": 30,
+          "points": 8,
+          "rebounds": 5,
+          "assists": 3,
+          "fg_pct": 50.0,
+          "fg3_pct": 0.0
+        },
+        {
+          "date": "Apr 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "minutes": 30,
+          "points": 20,
+          "rebounds": 6,
+          "assists": 7,
+          "fg_pct": 44.4,
+          "fg3_pct": 36.4
+        },
+        {
+          "date": "Apr 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "minutes": 22,
+          "points": 10,
+          "rebounds": 1,
+          "assists": 3,
+          "fg_pct": 80.0,
+          "fg3_pct": 66.7
+        },
+        {
+          "date": "Apr 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "minutes": 31,
+          "points": 10,
+          "rebounds": 4,
+          "assists": 2,
+          "fg_pct": 44.4,
+          "fg3_pct": 33.3
+        },
+        {
+          "date": "Mar 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "minutes": 26,
+          "points": 5,
+          "rebounds": 6,
+          "assists": 1,
+          "fg_pct": 33.3,
+          "fg3_pct": 20.0
+        },
+        {
+          "date": "Mar 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "minutes": 25,
+          "points": 7,
+          "rebounds": 6,
+          "assists": 4,
+          "fg_pct": 30.0,
+          "fg3_pct": 12.5
+        },
+        {
+          "date": "Mar 24, 2025",
+          "matchup": "BOS @ SAC",
+          "result": "W",
+          "minutes": 35,
+          "points": 22,
+          "rebounds": 5,
+          "assists": 2,
+          "fg_pct": 44.4,
+          "fg3_pct": 38.5
+        }
+      ]
+    }
+  },
+  "teams": {
+    "Boston Celtics": {
+      "id": 1610612738,
+      "abbreviation": "BOS",
+      "game_log": [
+        {
+          "date": "APR 13, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "points": 93,
+          "wins": 61,
+          "losses": 21
+        },
+        {
+          "date": "APR 11, 2025",
+          "matchup": "BOS vs. CHA",
+          "result": "W",
+          "points": 130,
+          "wins": 60,
+          "losses": 21
+        },
+        {
+          "date": "APR 09, 2025",
+          "matchup": "BOS @ ORL",
+          "result": "L",
+          "points": 76,
+          "wins": 59,
+          "losses": 21
+        },
+        {
+          "date": "APR 08, 2025",
+          "matchup": "BOS @ NYK",
+          "result": "W",
+          "points": 119,
+          "wins": 59,
+          "losses": 20
+        },
+        {
+          "date": "APR 06, 2025",
+          "matchup": "BOS vs. WAS",
+          "result": "W",
+          "points": 124,
+          "wins": 58,
+          "losses": 20
+        },
+        {
+          "date": "APR 04, 2025",
+          "matchup": "BOS vs. PHX",
+          "result": "W",
+          "points": 123,
+          "wins": 57,
+          "losses": 20
+        },
+        {
+          "date": "APR 02, 2025",
+          "matchup": "BOS vs. MIA",
+          "result": "L",
+          "points": 103,
+          "wins": 56,
+          "losses": 20
+        },
+        {
+          "date": "MAR 31, 2025",
+          "matchup": "BOS @ MEM",
+          "result": "W",
+          "points": 117,
+          "wins": 56,
+          "losses": 19
+        },
+        {
+          "date": "MAR 29, 2025",
+          "matchup": "BOS @ SAS",
+          "result": "W",
+          "points": 121,
+          "wins": 55,
+          "losses": 19
+        },
+        {
+          "date": "MAR 26, 2025",
+          "matchup": "BOS @ PHX",
+          "result": "W",
+          "points": 132,
+          "wins": 54,
+          "losses": 19
+        }
+      ]
+    }
+  },
+  "standings": {
+    "season": "2024-25",
+    "East": [
+      {
+        "rank": 1,
+        "team": "Cleveland Cavaliers",
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78,
+        "conference_record": "41-11",
+        "division": "Central",
+        "division_rank": 1
+      },
+      {
+        "rank": 2,
+        "team": "Boston Celtics",
+        "wins": 61,
+        "losses": 21,
+        "win_pct": 0.744,
+        "conference_record": "39-13",
+        "division": "Atlantic",
+        "division_rank": 1
+      },
+      {
+        "rank": 3,
+        "team": "New York Knicks",
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622,
+        "conference_record": "34-18",
+        "division": "Atlantic",
+        "division_rank": 2
+      },
+      {
+        "rank": 4,
+        "team": "Indiana Pacers",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61,
+        "conference_record": "29-22",
+        "division": "Central",
+        "division_rank": 2
+      },
+      {
+        "rank": 5,
+        "team": "Milwaukee Bucks",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585,
+        "conference_record": "31-21",
+        "division": "Central",
+        "division_rank": 3
+      },
+      {
+        "rank": 6,
+        "team": "Detroit Pistons",
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537,
+        "conference_record": "29-23",
+        "division": "Central",
+        "division_rank": 4
+      },
+      {
+        "rank": 7,
+        "team": "Orlando Magic",
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5,
+        "conference_record": "31-21",
+        "division": "Southeast",
+        "division_rank": 1
+      },
+      {
+        "rank": 8,
+        "team": "Atlanta Hawks",
+        "wins": 40,
+        "losses": 42,
+        "win_pct": 0.488,
+        "conference_record": "30-22",
+        "division": "Southeast",
+        "division_rank": 2
+      },
+      {
+        "rank": 9,
+        "team": "Chicago Bulls",
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476,
+        "conference_record": "28-24",
+        "division": "Central",
+        "division_rank": 5
+      },
+      {
+        "rank": 10,
+        "team": "Miami Heat",
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451,
+        "conference_record": "24-28",
+        "division": "Southeast",
+        "division_rank": 3
+      },
+      {
+        "rank": 11,
+        "team": "Toronto Raptors",
+        "wins": 30,
+        "losses": 52,
+        "win_pct": 0.366,
+        "conference_record": "21-31",
+        "division": "Atlantic",
+        "division_rank": 3
+      },
+      {
+        "rank": 12,
+        "team": "Brooklyn Nets",
+        "wins": 26,
+        "losses": 56,
+        "win_pct": 0.317,
+        "conference_record": "14-37",
+        "division": "Atlantic",
+        "division_rank": 4
+      },
+      {
+        "rank": 13,
+        "team": "Philadelphia 76ers",
+        "wins": 24,
+        "losses": 58,
+        "win_pct": 0.293,
+        "conference_record": "15-37",
+        "division": "Atlantic",
+        "division_rank": 5
+      },
+      {
+        "rank": 14,
+        "team": "Charlotte Hornets",
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232,
+        "conference_record": "10-42",
+        "division": "Southeast",
+        "division_rank": 4
+      },
+      {
+        "rank": 15,
+        "team": "Washington Wizards",
+        "wins": 18,
+        "losses": 64,
+        "win_pct": 0.22,
+        "conference_record": "13-39",
+        "division": "Southeast",
+        "division_rank": 5
+      }
+    ],
+    "West": [
+      {
+        "rank": 1,
+        "team": "Oklahoma City Thunder",
+        "wins": 68,
+        "losses": 14,
+        "win_pct": 0.829,
+        "conference_record": "39-13",
+        "division": "Northwest",
+        "division_rank": 1
+      },
+      {
+        "rank": 2,
+        "team": "Houston Rockets",
+        "wins": 52,
+        "losses": 30,
+        "win_pct": 0.634,
+        "conference_record": "31-21",
+        "division": "Southwest",
+        "division_rank": 1
+      },
+      {
+        "rank": 3,
+        "team": "Los Angeles Lakers",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61,
+        "conference_record": "36-16",
+        "division": "Pacific",
+        "division_rank": 1
+      },
+      {
+        "rank": 4,
+        "team": "Denver Nuggets",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61,
+        "conference_record": "32-20",
+        "division": "Northwest",
+        "division_rank": 2
+      },
+      {
+        "rank": 5,
+        "team": "LA Clippers",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61,
+        "conference_record": "29-23",
+        "division": "Pacific",
+        "division_rank": 2
+      },
+      {
+        "rank": 6,
+        "team": "Minnesota Timberwolves",
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598,
+        "conference_record": "33-19",
+        "division": "Northwest",
+        "division_rank": 3
+      },
+      {
+        "rank": 7,
+        "team": "Golden State Warriors",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585,
+        "conference_record": "29-23",
+        "division": "Pacific",
+        "division_rank": 3
+      },
+      {
+        "rank": 8,
+        "team": "Memphis Grizzlies",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585,
+        "conference_record": "27-24",
+        "division": "Southwest",
+        "division_rank": 2
+      },
+      {
+        "rank": 9,
+        "team": "Sacramento Kings",
+        "wins": 40,
+        "losses": 42,
+        "win_pct": 0.488,
+        "conference_record": "26-26",
+        "division": "Pacific",
+        "division_rank": 4
+      },
+      {
+        "rank": 10,
+        "team": "Dallas Mavericks",
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476,
+        "conference_record": "23-29",
+        "division": "Southwest",
+        "division_rank": 3
+      },
+      {
+        "rank": 11,
+        "team": "Phoenix Suns",
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439,
+        "conference_record": "22-30",
+        "division": "Pacific",
+        "division_rank": 5
+      },
+      {
+        "rank": 12,
+        "team": "Portland Trail Blazers",
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439,
+        "conference_record": "19-33",
+        "division": "Northwest",
+        "division_rank": 4
+      },
+      {
+        "rank": 13,
+        "team": "San Antonio Spurs",
+        "wins": 34,
+        "losses": 48,
+        "win_pct": 0.415,
+        "conference_record": "22-30",
+        "division": "Southwest",
+        "division_rank": 4
+      },
+      {
+        "rank": 14,
+        "team": "New Orleans Pelicans",
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256,
+        "conference_record": "13-38",
+        "division": "Southwest",
+        "division_rank": 5
+      },
+      {
+        "rank": 15,
+        "team": "Utah Jazz",
+        "wins": 17,
+        "losses": 65,
+        "win_pct": 0.207,
+        "conference_record": "8-44 ",
+        "division": "Northwest",
+        "division_rank": 5
+      }
+    ]
+  },
+  "position_avg_stats": {
+    "G": {
+      "position": "Guard",
+      "season": "2024-25",
+      "player_count": 284,
+      "avg_stats_per_game": {
+        "points": 9.5,
+        "rebounds": 2.8,
+        "assists": 2.6,
+        "steals": 0.8,
+        "blocks": 0.3,
+        "fg_pct": 42.1,
+        "fg3_pct": 33.4,
+        "ft_pct": 75.7
+      }
+    },
+    "F": {
+      "position": "Forward",
+      "season": "2024-25",
+      "player_count": 283,
+      "avg_stats_per_game": {
+        "points": 8.7,
+        "rebounds": 4.0,
+        "assists": 1.7,
+        "steals": 0.6,
+        "blocks": 0.5,
+        "fg_pct": 45.4,
+        "fg3_pct": 29.7,
+        "ft_pct": 69.8
+      }
+    },
+    "C": {
+      "position": "Center",
+      "season": "2024-25",
+      "player_count": 107,
+      "avg_stats_per_game": {
+        "points": 9.1,
+        "rebounds": 5.8,
+        "assists": 1.6,
+        "steals": 0.6,
+        "blocks": 0.8,
+        "fg_pct": 53.1,
+        "fg3_pct": 22.5,
+        "ft_pct": 68.4
+      }
+    }
+  }
+}
