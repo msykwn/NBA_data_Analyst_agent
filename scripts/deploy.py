@@ -38,6 +38,7 @@ def main():
     launch_result = launch_bedrock_agentcore(
         config_path=config_result.config_path,
         auto_update_on_conflict=True,
+        env_vars={"DATA_SOURCE_MODE": "dataset"},
     )
     print(f"   Agent ARN: {launch_result.agent_arn}")
     print(f"   Agent ID:  {launch_result.agent_id}")
